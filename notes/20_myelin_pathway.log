@@ -1,0 +1,153 @@
+done cerebellum | GSE28521 (8709, 21)
+done frontal cortex | GSE28521 (8695, 32)
+done temporal cortex | GSE28521 (8695, 26)
+done cerebellum | GSE38322 (31266, 26)
+done occipital | GSE38322 (31266, 10)
+done cerebellum | GSE269105 (12745, 12)
+done DLPFC | GSE102741 (12717, 52)
+done STG | GSE64018 (18845, 24)
+done oligodendrocytes only, PFC | Velmeshev (20871, 23)
+done oligodendrocytes only, ACC | Velmeshev (20871, 18)
+
+== GOCC_MYELIN_SHEATH
+                         cohort_region  n_asd  n_ctl  n_genes_in_set  mean_t(+ = up in autism)  p_label_permutation  p_vs_random_sets
+                 cerebellum | GSE28521     10     11              25                    -0.020               0.9680            0.7471
+             frontal cortex | GSE28521     16     16              25                     0.565               0.2449            0.0225
+            temporal cortex | GSE28521     13     13              25                     0.344               0.4765            0.1019
+                 cerebellum | GSE38322     14     12              43                     1.321               0.0013            0.0005
+                  occipital | GSE38322      4      6              43                     0.321               0.4079            0.2844
+                cerebellum | GSE269105      7      5              39                    -0.158               0.7021            0.9770
+                     DLPFC | GSE102741     13     39              36                    -0.266               0.7398            0.0005
+                        STG | GSE64018     12     12              43                     0.187               0.6311            0.8561
+oligodendrocytes only, PFC | Velmeshev     13     10              40                    -0.278               0.2729            0.0625
+oligodendrocytes only, ACC | Velmeshev      9      9              40                     0.050               0.7977            0.9000
+
+== GOBP_OLIGODENDROCYTE_DIFFERENTIATION
+                         cohort_region  n_asd  n_ctl  n_genes_in_set  mean_t(+ = up in autism)  p_label_permutation  p_vs_random_sets
+                 cerebellum | GSE28521     10     11              64                     0.158               0.5175            0.0600
+             frontal cortex | GSE28521     16     16              66                     0.272               0.3705            0.0165
+            temporal cortex | GSE28521     13     13              66                     0.337               0.3372            0.0120
+                 cerebellum | GSE38322     14     12             104                     0.792               0.0013            0.0005
+                  occipital | GSE38322      4      6             104                     0.357               0.2093            0.0480
+                cerebellum | GSE269105      7      5              92                    -0.111               0.6871            0.4998
+                     DLPFC | GSE102741     13     39              82                    -0.015               0.9890            0.0005
+                        STG | GSE64018     12     12              96                     0.357               0.2626            0.5327
+oligodendrocytes only, PFC | Velmeshev     13     10              96                    -0.014               0.9590            0.5972
+oligodendrocytes only, ACC | Velmeshev      9      9              96                     0.222               0.3139            0.0670
+
+== GOBP_OLIGODENDROCYTE_DEVELOPMENT
+                         cohort_region  n_asd  n_ctl  n_genes_in_set  mean_t(+ = up in autism)  p_label_permutation  p_vs_random_sets
+                 cerebellum | GSE28521     10     11              31                    -0.123               0.5828            0.8376
+             frontal cortex | GSE28521     16     16              32                     0.107               0.7271            0.2719
+            temporal cortex | GSE28521     13     13              32                     0.001               0.9980            0.5807
+                 cerebellum | GSE38322     14     12              47                     0.646               0.0103            0.0300
+                  occipital | GSE38322      4      6              47                     0.264               0.4668            0.3888
+                cerebellum | GSE269105      7      5              44                    -0.153               0.6861            0.9695
+                     DLPFC | GSE102741     13     39              40                     0.024               0.9803            0.0205
+                        STG | GSE64018     12     12              44                     0.169               0.6721            0.7796
+oligodendrocytes only, PFC | Velmeshev     13     10              44                    -0.024               0.9467            0.6572
+oligodendrocytes only, ACC | Velmeshev      9      9              44                     0.260               0.3565            0.1289
+
+== GOBP_ENSHEATHMENT_OF_NEURONS
+                         cohort_region  n_asd  n_ctl  n_genes_in_set  mean_t(+ = up in autism)  p_label_permutation  p_vs_random_sets
+                 cerebellum | GSE28521     10     11              84                     0.007               0.9750            0.4013
+             frontal cortex | GSE28521     16     16              86                     0.124               0.6088            0.0660
+            temporal cortex | GSE28521     13     13              86                     0.199               0.4678            0.0335
+                 cerebellum | GSE38322     14     12             151                     0.827               0.0007            0.0005
+                  occipital | GSE38322      4      6             151                     0.488               0.1273            0.0010
+                cerebellum | GSE269105      7      5             140                    -0.089               0.7517            0.2679
+                     DLPFC | GSE102741     13     39             129                    -0.020               0.9787            0.0005
+                        STG | GSE64018     12     12             148                     0.037               0.8810            0.1694
+oligodendrocytes only, PFC | Velmeshev     13     10             138                     0.160               0.5452            0.2244
+oligodendrocytes only, ACC | Velmeshev      9      9             138                     0.093               0.6485            0.4558
+
+== GOBP_REGULATION_OF_MYELINATION
+                         cohort_region  n_asd  n_ctl  n_genes_in_set  mean_t(+ = up in autism)  p_label_permutation  p_vs_random_sets
+                 cerebellum | GSE28521     10     11              23                     0.178               0.5745            0.2089
+             frontal cortex | GSE28521     16     16              24                     0.541               0.1886            0.0285
+            temporal cortex | GSE28521     13     13              24                     0.373               0.4175            0.0835
+                 cerebellum | GSE38322     14     12              45                     1.219               0.0003            0.0015
+                  occipital | GSE38322      4      6              45                     0.436               0.0630            0.0965
+                cerebellum | GSE269105      7      5              39                    -0.074               0.7954            0.4703
+                     DLPFC | GSE102741     13     39              38                     0.003               0.9973            0.0140
+                        STG | GSE64018     12     12              43                     0.600               0.0730            0.1929
+oligodendrocytes only, PFC | Velmeshev     13     10              42                     0.085               0.7957            0.7791
+oligodendrocytes only, ACC | Velmeshev      9      9              42                     0.044               0.8820            0.9105
+
+== GOBP_MYELIN_ASSEMBLY
+                         cohort_region  n_asd  n_ctl  n_genes_in_set  mean_t(+ = up in autism)  p_label_permutation  p_vs_random_sets
+                 cerebellum | GSE28521     10     11              13                    -0.724               0.0670            0.0240
+             frontal cortex | GSE28521     16     16              14                    -0.715               0.0793            0.2269
+            temporal cortex | GSE28521     13     13              14                    -0.611               0.1096            0.2599
+                 cerebellum | GSE38322     14     12              21                     1.182               0.0013            0.0080
+                  occipital | GSE38322      4      6              21                     0.531               0.2849            0.1274
+                cerebellum | GSE269105      7      5              21                    -0.313               0.5008            0.3288
+                     DLPFC | GSE102741     13     39              21                    -0.132               0.8670            0.0040
+                        STG | GSE64018     12     12              22                    -0.570               0.1226            0.0350
+oligodendrocytes only, PFC | Velmeshev     13     10              21                    -0.247               0.4998            0.2164
+oligodendrocytes only, ACC | Velmeshev      9      9              21                    -0.016               0.9550            0.8276
+
+== GOBP_ASTROCYTE_DIFFERENTIATION
+                         cohort_region  n_asd  n_ctl  n_genes_in_set  mean_t(+ = up in autism)  p_label_permutation  p_vs_random_sets
+                 cerebellum | GSE28521     10     11              42                     0.172               0.6085            0.1084
+             frontal cortex | GSE28521     16     16              44                     0.514               0.1200            0.0035
+            temporal cortex | GSE28521     13     13              44                     0.673               0.1010            0.0005
+                 cerebellum | GSE38322     14     12              87                     1.005               0.0003            0.0005
+                  occipital | GSE38322      4      6              87                     0.722               0.0050            0.0005
+                cerebellum | GSE269105      7      5              71                     0.125               0.6721            0.0020
+                     DLPFC | GSE102741     13     39              59                     0.135               0.8607            0.1404
+                        STG | GSE64018     12     12              77                     0.761               0.0153            0.0085
+oligodendrocytes only, PFC | Velmeshev     13     10              64                    -0.043               0.8434            0.5242
+oligodendrocytes only, ACC | Velmeshev      9      9              64                     0.066               0.7158            0.7781
+
+== GOBP_INFLAMMATORY_RESPONSE
+                         cohort_region  n_asd  n_ctl  n_genes_in_set  mean_t(+ = up in autism)  p_label_permutation  p_vs_random_sets
+                 cerebellum | GSE28521     10     11             311                     0.153               0.3416            0.0005
+             frontal cortex | GSE28521     16     16             313                     0.314               0.0423            0.0005
+            temporal cortex | GSE28521     13     13             313                     0.228               0.1240            0.0005
+                 cerebellum | GSE38322     14     12             946                     0.330               0.0073            0.0005
+                  occipital | GSE38322      4      6             946                     0.147               0.2516            0.1414
+                cerebellum | GSE269105      7      5             604                    -0.082               0.6911            0.0080
+                     DLPFC | GSE102741     13     39             437                     0.139               0.8670            0.0005
+                        STG | GSE64018     12     12             732                     0.998               0.0050            0.0005
+oligodendrocytes only, PFC | Velmeshev     13     10             629                    -0.028               0.8897            0.0945
+oligodendrocytes only, ACC | Velmeshev      9      9             629                     0.030               0.8067            0.9780
+
+== GOBP_OXIDATIVE_PHOSPHORYLATION
+                         cohort_region  n_asd  n_ctl  n_genes_in_set  mean_t(+ = up in autism)  p_label_permutation  p_vs_random_sets
+                 cerebellum | GSE28521     10     11              72                    -0.436               0.5492            0.0035
+             frontal cortex | GSE28521     16     16              73                    -1.314               0.0347            0.0005
+            temporal cortex | GSE28521     13     13              73                    -0.714               0.2762            0.0015
+                 cerebellum | GSE38322     14     12             113                    -2.494               0.0003            0.0005
+                  occipital | GSE38322      4      6             113                    -1.413               0.0180            0.0005
+                cerebellum | GSE269105      7      5             125                    -0.552               0.3439            0.0005
+                     DLPFC | GSE102741     13     39             129                     0.006               0.9947            0.0005
+                        STG | GSE64018     12     12             135                    -1.080               0.0150            0.0005
+oligodendrocytes only, PFC | Velmeshev     13     10             109                    -0.013               0.9800            0.6152
+oligodendrocytes only, ACC | Velmeshev      9      9             109                     0.384               0.3645            0.0005
+
+== GOBP_SYNAPTIC_SIGNALING
+                         cohort_region  n_asd  n_ctl  n_genes_in_set  mean_t(+ = up in autism)  p_label_permutation  p_vs_random_sets
+                 cerebellum | GSE28521     10     11             427                     0.029               0.8317            0.0195
+             frontal cortex | GSE28521     16     16             458                    -0.464               0.0780            0.0005
+            temporal cortex | GSE28521     13     13             458                    -0.531               0.0313            0.0005
+                 cerebellum | GSE38322     14     12             825                     0.389               0.0523            0.0005
+                  occipital | GSE38322      4      6             825                     0.521               0.0936            0.0005
+                cerebellum | GSE269105      7      5             691                    -0.109               0.7917            0.0645
+                     DLPFC | GSE102741     13     39             656                     0.020               0.9780            0.0005
+                        STG | GSE64018     12     12             779                    -0.640               0.0170            0.0005
+oligodendrocytes only, PFC | Velmeshev     13     10             717                    -0.070               0.7897            0.0060
+oligodendrocytes only, ACC | Velmeshev      9      9             717                     0.199               0.4802            0.0005
+
+== MARKERS_oligo_curated(15)
+                         cohort_region  n_asd  n_ctl  n_genes_in_set  mean_t(+ = up in autism)  p_label_permutation  p_vs_random_sets
+                 cerebellum | GSE28521     10     11              11                     0.175               0.8234            0.4278
+             frontal cortex | GSE28521     16     16              11                     0.315               0.7241            0.3083
+            temporal cortex | GSE28521     13     13              11                     0.346               0.7168            0.2784
+                 cerebellum | GSE38322     14     12              15                     1.720               0.0400            0.0005
+                  occipital | GSE38322      4      6              15                     0.291               0.7501            0.5722
+                cerebellum | GSE269105      7      5              15                     0.160               0.8431            0.1029
+                     DLPFC | GSE102741     13     39              15                    -0.827               0.3969            0.0005
+                        STG | GSE64018     12     12              15                    -0.407               0.6614            0.1604
+oligodendrocytes only, PFC | Velmeshev     13     10              15                    -0.238               0.6298            0.3388
+oligodendrocytes only, ACC | Velmeshev      9      9              15                     0.141               0.7867            0.6517

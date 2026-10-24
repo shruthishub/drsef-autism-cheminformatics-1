@@ -1,0 +1,261 @@
+gene,source,uniprot,protein,keywords,n_pdb,chembl_target,n_mech,max_phase,action_types,mech_molecules,n_potent,sfari_score,syndromic,denovo_LoF_autism,denovo_LoF_p,denovo_mis_autism,denovo_mis_p,discovery_z_if_candidate,n_layers,druggable,lof_driven,query_date
+ABCE1,SFARI1,P61221,ATP-binding cassette sub-family E member 1,Hydrolase;Ubl conjugation,3.0,CHEMBL6067318,0.0,,,,2.0,1.0,0.0,0.0,1.0,1.0,0.188295680951505,,,False,False,2026-10-24
+ACTB,SFARI1,P60709,"Actin, cytoplasmic 1",Hydrolase;Ubl conjugation,84.0,CHEMBL2062353,0.0,,,,0.0,1.0,1.0,0.0,1.0,1.0,0.1225494370278851,,,False,False,2026-10-24
+ADNP,SFARI1;denovoLoF_p<1e-3,Q9H2P0,Activity-dependent neuroprotector homeobox protein,Transcription regulation;Ubl conjugation,0.0,,,,,,,1.0,1.0,7.0,2.0075046357385447e-12,0.0,1.0,,,False,True,2026-10-24
+ADSL,SFARI1,P30566,Adenylosuccinate lyase,Ubl conjugation,4.0,CHEMBL6066328,0.0,,,,0.0,1.0,1.0,0.0,1.0,1.0,0.1551817877987039,,,False,False,2026-10-24
+AFF2,SFARI1,P51816,AF4/FMR2 family member 2,,0.0,CHEMBL5724735,0.0,,,,3.0,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+AHDC1,SFARI1;expr_candidate+denovo,Q5TGY3,Transcription factor Gibbin,Transcription regulation;Ubl conjugation,0.0,,,,,,,1.0,1.0,1.0,0.1003866797003686,1.0,0.4274805167545472,2.59529677772805,1.0,False,True,2026-10-24
+ALDH5A1,SFARI1,P51649,"Succinate-semialdehyde dehydrogenase, mitochondrial",Oxidoreductase,5.0,CHEMBL1911,3.0,4.0,INHIBITOR,CHEMBL109;CHEMBL2105613;CHEMBL433,1.0,1.0,1.0,0.0,1.0,2.0,0.0160581851795123,,,True,False,2026-10-24
+ANK2,SFARI1;denovoLoF_p<1e-3,Q01484,Ankyrin-2,Transport,11.0,,,,,,,1.0,0.0,4.0,0.0001571668395228,2.0,0.3999199334151475,,,False,True,2026-10-24
+ANK3,SFARI1,Q12955,Ankyrin-3,,1.0,,,,,,,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+ANKRD11,SFARI1;denovoLoF_p<1e-3,Q6UB99,Ankyrin repeat domain-containing protein 11,,0.0,,,,,,,1.0,1.0,4.0,3.451647192968391e-05,0.0,1.0,,,False,True,2026-10-24
+ANP32A,SFARI1,P39687,Acidic leucine-rich nuclear phosphoprotein 32 family member A,Transcription regulation,9.0,CHEMBL4295758,0.0,,,,0.0,1.0,0.0,1.0,0.0163533142708669,0.0,1.0,,,False,True,2026-10-24
+AP2S1,SFARI1,P53680,AP-2 complex subunit sigma,Transport,1.0,CHEMBL6066485,0.0,,,,4.0,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+ARF3,SFARI1,P61204,ADP-ribosylation factor 3,Transport,2.0,,,,,,,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+ARHGEF9,SFARI1,O43307,Rho guanine nucleotide exchange factor 9,,1.0,,,,,,,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+ARID1B,SFARI1;denovoLoF_p<1e-3,Q8NFD5,AT-rich interactive domain-containing protein 1B,Chromatin regulator;Transcription regulation,2.0,,,,,,,1.0,1.0,10.0,1.2471516244624109e-15,2.0,0.184867742399895,,,False,True,2026-10-24
+ARX,SFARI1,Q96QS3,Homeobox protein ARX,Transcription regulation,0.0,,,,,,,1.0,1.0,0.0,1.0,1.0,0.1777857696435042,,,False,False,2026-10-24
+ASH1L,SFARI1;denovoLoF_p<1e-3,Q9NR48,Histone-lysine N-methyltransferase ASH1L,Chromatin regulator;Methyltransferase;Transcription regulation;Transferase;Ubl conjugation,16.0,CHEMBL3588739,0.0,,,,57.0,1.0,0.0,7.0,1.8290323108850022e-09,0.0,1.0,,,True,True,2026-10-24
+ASTN1,SFARI1,O14525,Astrotactin-1,,0.0,,,,,,,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+ASXL3,SFARI1;denovoLoF_p<1e-3,Q9C0F0,Putative Polycomb group protein ASXL3,Transcription regulation,0.0,,,,,,,1.0,1.0,3.0,0.0004868635375706,0.0,1.0,,,False,True,2026-10-24
+ATRX,SFARI1,P46100,Chromatin remodeler ATRX,Chromatin regulator;Hydrolase;Transcription regulation;Ubl conjugation,12.0,,,,,,,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+AUTS2,SFARI1,Q8WXX7,Autism susceptibility gene 2 protein,Transcription regulation,0.0,,,,,,,1.0,0.0,0.0,1.0,1.0,0.35473887741789,,,False,False,2026-10-24
+BAZ2B,SFARI1,Q9UIF8,Bromodomain adjacent to zinc finger domain protein 2B,Transcription regulation;Ubl conjugation,264.0,CHEMBL1741220,0.0,,,,44.0,1.0,0.0,1.0,0.1332929727371263,1.0,0.5295935667763326,,,True,True,2026-10-24
+BCKDK,SFARI1,O14874,Branched-chain alpha-ketoacid dehydrogenase kinase,Kinase;Transferase,5.0,CHEMBL4879410,0.0,,,,30.0,1.0,0.0,,,,,,,True,True,2026-10-24
+BCL11A,SFARI1,Q9H165,BCL11 transcription factor A,Transcription regulation;Ubl conjugation,17.0,CHEMBL5498502,1.0,4.0,GENE EDITING NEGATIVE MODULATOR,CHEMBL5095474,0.0,1.0,1.0,2.0,0.0014653384348347,0.0,1.0,,,True,True,2026-10-24
+BRAF,SFARI1,P15056,Serine/threonine-protein kinase B-raf,Kinase;Transferase;Ubl conjugation,131.0,CHEMBL5145,14.0,4.0,INHIBITOR,CHEMBL1200485;CHEMBL1229517;CHEMBL1946170;CHEMBL2029988;CHEMBL2105729;CHEMBL3301612;CHEMBL3545027;CHEMBL3545080;CHEMBL3545263;CHEMBL3577124;CHEMBL4209157;CHEMBL4303729;CHEMBL5314407;CHEMBL558752,8619.0,1.0,1.0,0.0,1.0,1.0,0.2343518160459684,,,True,False,2026-10-24
+BRSK2,SFARI1,Q8IWQ3,Serine/threonine-protein kinase BRSK2,Kinase;Transferase;Ubl conjugation,0.0,CHEMBL4574,0.0,,,,18.0,1.0,1.0,1.0,0.0879603513104149,0.0,1.0,,,True,True,2026-10-24
+BTBD9,expr_candidate+denovo,Q96Q07,BTB/POZ domain-containing protein 9,,0.0,,,,,,,,,1.0,0.0396234345867452,0.0,1.0,2.6374138855214,1.0,False,True,2026-10-24
+CACNA1A,SFARI1,O00555,Voltage-dependent P/Q-type calcium channel subunit alpha-1A,Ion channel;Transport;Voltage-gated channel,4.0,CHEMBL4266,1.0,2.0,BLOCKER,CHEMBL29919,0.0,1.0,1.0,0.0,1.0,1.0,0.5826234703450929,,,True,False,2026-10-24
+CACNA1C,SFARI1,Q13936,Voltage-dependent L-type calcium channel subunit alpha-1C,Ion channel;Transport;Voltage-gated channel,33.0,CHEMBL1940,0.0,,,,91.0,1.0,1.0,0.0,1.0,1.0,0.5405851706534659,,,True,False,2026-10-24
+CACNA1E,SFARI1,Q15878,Voltage-dependent R-type calcium channel subunit alpha-1E,Ion channel;Transport;Voltage-gated channel,5.0,CHEMBL1687682,0.0,,,,0.0,1.0,0.0,0.0,1.0,1.0,0.5527217968756373,,,False,False,2026-10-24
+CACNA2D3,SFARI1,Q8IZS8,Voltage-dependent calcium channel subunit alpha-2/delta-3,Ion channel;Transport;Voltage-gated channel,0.0,,,,,,,1.0,0.0,1.0,0.0694893826293065,0.0,1.0,,,False,True,2026-10-24
+CAMK2A,SFARI1,Q9UQM7,Calcium/calmodulin-dependent protein kinase type II subunit alpha,Kinase;Transferase,22.0,CHEMBL4147,0.0,,,,98.0,1.0,1.0,1.0,0.031800841897285,1.0,0.1566492223041177,,,True,True,2026-10-24
+CAMTA2,SFARI1,O94983,Calmodulin-binding transcription activator 2,Transcription regulation,0.0,,,,,,,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+CAPRIN1,SFARI1,Q14444,Caprin-1,,6.0,CHEMBL4295821,0.0,,,,2.0,1.0,0.0,1.0,0.0457478707027362,0.0,1.0,,,False,True,2026-10-24
+CASK,SFARI1,P07498,Kappa-casein,,0.0,CHEMBL3621024,0.0,,,,0.0,1.0,0.0,0.0,1.0,1.0,0.2742706174675646,,,False,False,2026-10-24
+CASZ1,SFARI1,Q86V15,Zinc finger protein castor homolog 1,Transcription regulation;Ubl conjugation,0.0,,,,,,,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+CDKL5,SFARI1,O76039,Cyclin-dependent kinase-like 5,Kinase;Transferase,3.0,CHEMBL1163112,0.0,,,,15.0,1.0,1.0,0.0,1.0,0.0,1.0,,,True,True,2026-10-24
+CELF4,SFARI1,Q9BZC1,CUGBP Elav-like family member 4,,2.0,,,,,,,1.0,0.0,1.0,0.0316092530566489,1.0,0.1557690677535221,,,False,True,2026-10-24
+CHAMP1,SFARI1,Q96JM3,Chromosome alignment-maintaining phosphoprotein 1,Ubl conjugation,4.0,CHEMBL5724784,0.0,,,,0.0,1.0,1.0,0.0,1.0,1.0,0.2462382485703784,,,False,False,2026-10-24
+CHD2,SFARI1;denovoLoF_p<1e-3,O14647,ATP-dependent chromatin remodeler CHD2,Chromatin regulator;Hydrolase;Transcription regulation,0.0,,,,,,,1.0,1.0,6.0,3.859591718572607e-09,4.0,0.0041203595257379,,,False,True,2026-10-24
+CHD3,SFARI1,Q12873,ATP-dependent chromatin remodeler CHD3,Chromatin regulator;Hydrolase;Transcription regulation;Ubl conjugation,0.0,CHEMBL6067283,0.0,,,,0.0,1.0,1.0,0.0,1.0,2.0,0.1614760236134102,,,False,False,2026-10-24
+CHD7,SFARI1,Q9P2D1,ATP-dependent chromatin remodeler CHD7,Chromatin regulator;Hydrolase;Transcription regulation,3.0,,,,,,,1.0,1.0,2.0,0.0171531088284904,1.0,0.6473927064021598,,,False,True,2026-10-24
+CHD8,SFARI1;denovoLoF_p<1e-3,Q9HCK8,ATP-dependent chromatin remodeler CHD8,Chromatin regulator;Hydrolase;Transcription regulation;Ubl conjugation,2.0,CHEMBL6066165,0.0,,,,2.0,1.0,1.0,13.0,1.4450870554391083e-20,5.0,0.002350122304696,,,False,True,2026-10-24
+CIC,SFARI1;expr_candidate+denovo,Q96RK0,Protein capicua homolog,Transcription regulation,7.0,,,,,,,1.0,0.0,1.0,0.100683296375873,1.0,0.4284749731152203,2.75026056211531,1.0,False,True,2026-10-24
+CNOT3,SFARI1;denovoLoF_p<1e-3,O75175,CCR4-NOT transcription complex subunit 3,Transcription regulation,6.0,CHEMBL4105769,0.0,,,,0.0,1.0,1.0,3.0,1.9747356369383377e-05,0.0,1.0,,,False,True,2026-10-24
+CORO1A,SFARI1,P31146,Coronin-1A,Ubl conjugation,0.0,CHEMBL5169128,0.0,,,,2.0,1.0,0.0,,,,,,,False,True,2026-10-24
+CPSF7,SFARI1,Q8N684,Cleavage and polyadenylation specificity factor subunit 7,Ubl conjugation,1.0,CHEMBL5724758,0.0,,,,0.0,1.0,0.0,1.0,0.0333959422213596,0.0,1.0,,,False,True,2026-10-24
+CREBBP,SFARI1,Q92793,CREB-binding protein,Transcription regulation;Transferase;Ubl conjugation,144.0,CHEMBL5747,0.0,,,,2554.0,1.0,1.0,0.0,1.0,2.0,0.2090744376272976,,,True,False,2026-10-24
+CSDE1,SFARI1,O75534,Cold shock domain-containing protein E1,Ubl conjugation,5.0,CHEMBL6067007,0.0,,,,2.0,1.0,1.0,1.0,0.0542066208053559,0.0,1.0,,,False,True,2026-10-24
+CSNK1E,expr_candidate+denovo,P49674,Casein kinase I isoform epsilon,Kinase;Transferase,2.0,CHEMBL4937,1.0,4.0,INHIBITOR,CHEMBL3989869,1089.0,2.0,0.0,0.0,1.0,2.0,0.0095482584270287,2.77674937903096,1.0,True,False,2026-10-24
+CSNK2A1,SFARI1,P68400,Casein kinase II subunit alpha,Kinase;Transcription regulation;Transferase,320.0,CHEMBL3629,1.0,2.0,INHIBITOR,CHEMBL1230165,1314.0,1.0,1.0,0.0,1.0,1.0,0.1274172970376638,,,True,False,2026-10-24
+CTCF,SFARI1,P49711,Transcriptional repressor CTCF,Chromatin regulator;Transcription regulation;Ubl conjugation,21.0,CHEMBL4523233,0.0,,,,0.0,1.0,1.0,1.0,0.0468800603129758,1.0,0.2236288302931484,,,False,True,2026-10-24
+CTNNB1,SFARI1,P35222,Catenin beta-1,Transcription regulation;Ubl conjugation,50.0,CHEMBL5866,0.0,,,,92.0,1.0,0.0,1.0,0.0502685756765467,1.0,0.2380697665633935,,,True,True,2026-10-24
+CUL3,SFARI1,Q13618,Cullin-3,Transport;Ubl conjugation,29.0,CHEMBL6067538,0.0,,,,3.0,1.0,0.0,2.0,0.0012626658956095,0.0,1.0,,,False,True,2026-10-24
+DDX3X,SFARI1;denovoLoF_p<1e-3,O00571,ATP-dependent RNA helicase DDX3X,Helicase;Hydrolase;Transcription regulation;Ubl conjugation,17.0,CHEMBL5553,0.0,,,,55.0,1.0,1.0,2.0,0.0009286292012508,1.0,0.2058827466417392,,,True,True,2026-10-24
+DEAF1,SFARI1,O75398,Deformed epidermal autoregulatory factor 1 homolog,Transcription regulation,3.0,,,,,,,1.0,1.0,0.0,1.0,1.0,0.1786429706400219,,,False,False,2026-10-24
+DHCR7,SFARI1,Q9UBM7,7-dehydrocholesterol reductase,Hydrolase;Oxidoreductase,0.0,CHEMBL2169735,0.0,,,,9.0,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+DIP2A,SFARI1,Q14689,Disco-interacting protein 2 homolog A,,0.0,,,,,,,1.0,0.0,2.0,0.005017294366291,0.0,1.0,,,False,True,2026-10-24
+DLG4,SFARI1,P78352,Disks large homolog 4,Ubl conjugation,22.0,CHEMBL5666,0.0,,,,11.0,1.0,0.0,0.0,1.0,0.0,1.0,,,True,True,2026-10-24
+DMPK,SFARI1,Q09013,Myotonin-protein kinase,Kinase;Transferase,2.0,CHEMBL5320,0.0,,,,25.0,1.0,1.0,0.0,1.0,2.0,0.021375229099396,,,True,False,2026-10-24
+DNMT3A,SFARI1,Q9Y6K1,DNA (cytosine-5)-methyltransferase 3A,Chromatin regulator;Methyltransferase;Transferase;Ubl conjugation,43.0,CHEMBL1992,2.0,4.0,INHIBITOR,CHEMBL1201129;CHEMBL1489,10.0,1.0,1.0,1.0,0.0584388868137589,4.0,0.0003286886517883,,,True,False,2026-10-24
+DPYSL2,SFARI1,Q16555,Dihydropyrimidinase-related protein 2,,15.0,CHEMBL4295834,0.0,,,,0.0,1.0,0.0,0.0,1.0,2.0,0.0237825781267476,,,False,False,2026-10-24
+DSCAM,SFARI1;denovoLoF_p<1e-3,O60469,Cell adhesion molecule DSCAM,,1.0,,,,,,,1.0,0.0,5.0,5.97556560769566e-07,0.0,1.0,,,False,True,2026-10-24
+DYNC1H1,SFARI1,Q14204,Cytoplasmic dynein 1 heavy chain 1,Transport,97.0,CHEMBL5724913,0.0,,,,0.0,1.0,0.0,0.0,1.0,6.0,0.0063229278128335,,,False,False,2026-10-24
+DYRK1A,SFARI1;denovoLoF_p<1e-3,Q13627,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,Kinase;Transcription regulation;Transferase,91.0,CHEMBL2292,1.0,3.0,INHIBITOR,CHEMBL4297639,5956.0,1.0,1.0,5.0,2.5957724335093583e-09,0.0,1.0,,,True,True,2026-10-24
+EBF3,SFARI1,Q9H4W6,Transcription factor COE3,Transcription regulation,2.0,,,,,,,1.0,1.0,0.0,1.0,1.0,0.1746350383408583,,,False,False,2026-10-24
+EHMT1,SFARI1,Q9H9B1,Histone-lysine N-methyltransferase EHMT1,Chromatin regulator;Methyltransferase;Transferase;Ubl conjugation,22.0,CHEMBL6031,0.0,,,,191.0,1.0,1.0,0.0,1.0,0.0,1.0,,,True,True,2026-10-24
+EIF3G,SFARI1,O75821,Eukaryotic translation initiation factor 3 subunit G,,19.0,CHEMBL6067003,0.0,,,,4.0,1.0,0.0,0.0,1.0,1.0,0.1056081082234093,,,False,False,2026-10-24
+ELAVL3,SFARI1,Q14576,ELAV-like protein 3,,0.0,CHEMBL4105924,0.0,,,,4.0,1.0,0.0,0.0,1.0,2.0,0.0075201044331752,,,False,False,2026-10-24
+EP300,SFARI1,Q09472,Histone acetyltransferase p300,Transcription regulation;Transferase;Ubl conjugation,60.0,CHEMBL3784,0.0,,,,552.0,1.0,1.0,1.0,0.1472415634111911,2.0,0.2055409681688483,,,True,False,2026-10-24
+FMR1,SFARI1,Q06787,Fragile X messenger ribonucleoprotein 1,Transport;Ubl conjugation,12.0,,,,,,,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+FOXG1,SFARI1,P55316,Forkhead box protein G1,Transcription regulation,1.0,,,,,,,1.0,1.0,0.0,1.0,3.0,0.0007257557891111,,,False,False,2026-10-24
+FOXP1,SFARI1,Q9H334,Forkhead box protein P1,Transcription regulation;Ubl conjugation,1.0,,,,,,,1.0,1.0,2.0,0.0010161187595168,0.0,1.0,,,False,True,2026-10-24
+FOXP2,SFARI1,O15409,Forkhead box protein P2,Transcription regulation,2.0,,,,,,,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+GABRB2,SFARI1,P47870,Gamma-aminobutyric acid receptor subunit beta-2,Ion channel;Ligand-gated ion channel;Receptor;Transport,31.0,CHEMBL1920,0.0,,,,1.0,1.0,0.0,0.0,1.0,1.0,0.1633666594448456,,,False,False,2026-10-24
+GABRB3,SFARI1,P28472,Gamma-aminobutyric acid receptor subunit beta-3,Ion channel;Ligand-gated ion channel;Receptor;Transport,95.0,CHEMBL1847,1.0,2.0,POSITIVE ALLOSTERIC MODULATOR,CHEMBL356388,19.0,1.0,0.0,1.0,0.0307785965576558,1.0,0.1519444378624545,,,True,True,2026-10-24
+GFAP,SFARI1,P14136,Glial fibrillary acidic protein,,1.0,,,,,,,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+GIGYF1,SFARI1;denovoLoF_p<1e-3,O75420,GRB10-interacting GYF protein 1,,2.0,,,,,,,1.0,0.0,3.0,5.051659474487174e-05,0.0,1.0,,,False,True,2026-10-24
+GIGYF2,SFARI1,Q6Y7W6,GRB10-interacting GYF protein 2,Ubl conjugation,3.0,CHEMBL2331055,0.0,,,,1.0,1.0,0.0,0.0,1.0,2.0,0.2194559119823461,,,False,False,2026-10-24
+GNAI1,SFARI1,P63096,Guanine nucleotide-binding protein G(i) subunit alpha-1,Hydrolase;Transport,601.0,CHEMBL4741,0.0,,,,1.0,1.0,1.0,0.0,1.0,2.0,0.0070190739287885,,,False,False,2026-10-24
+GRIA2,SFARI1,P42262,Glutamate receptor 2,Ion channel;Ligand-gated ion channel;Receptor;Transport;Ubl conjugation,16.0,CHEMBL4016,1.0,2.0,ANTAGONIST,CHEMBL61872,157.0,1.0,0.0,1.0,0.0566362709191157,1.0,0.2646182590658202,,,True,True,2026-10-24
+GRIN1,SFARI1,Q05586,"Glutamate receptor ionotropic, NMDA 1",Ion channel;Ligand-gated ion channel;Receptor;Transport;Ubl conjugation,84.0,CHEMBL2015,0.0,,,,123.0,1.0,0.0,0.0,1.0,1.0,0.2798008108250612,,,True,False,2026-10-24
+GRIN2A,SFARI1,Q12879,"Glutamate receptor ionotropic, NMDA 2A",Ion channel;Ligand-gated ion channel;Receptor;Transport,37.0,CHEMBL1972,2.0,4.0,ANTAGONIST,CHEMBL1201461;CHEMBL1256818,21.0,1.0,0.0,0.0,1.0,0.0,1.0,,,True,True,2026-10-24
+GRIN2B,SFARI1,Q13224,"Glutamate receptor ionotropic, NMDA 2B",Ion channel;Ligand-gated ion channel;Receptor;Transport,35.0,CHEMBL1904,0.0,,,,1770.0,1.0,0.0,2.0,0.0044943270995605,2.0,0.0951968470263228,,,True,True,2026-10-24
+HDLBP,SFARI1,Q00341,Vigilin,Transport,8.0,CHEMBL4295796,0.0,,,,0.0,1.0,0.0,0.0,1.0,2.0,0.0729362339319075,,,False,False,2026-10-24
+HECTD4,SFARI1,Q9Y4D8,Probable E3 ubiquitin-protein ligase HECTD4,Transferase,0.0,,,,,,,1.0,0.0,3.0,0.0030481248649592,1.0,0.7746021888615914,,,False,True,2026-10-24
+HIVEP2,SFARI1,P31629,Transcription factor HIVEP2,Transcription regulation,0.0,CHEMBL4523214,0.0,,,,0.0,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+HIVEP3,denovoLoF_p<1e-3,Q5T1R4,Transcription factor HIVEP3,Transcription regulation,0.0,,,,,,,2.0,0.0,3.0,0.000592242126269,0.0,1.0,,,False,True,2026-10-24
+HNRNPH2,SFARI1,P55795,Heterogeneous nuclear ribonucleoprotein H2,Ubl conjugation,4.0,CHEMBL4296005,0.0,,,,0.0,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+HNRNPU,SFARI1,Q00839,Heterogeneous nuclear ribonucleoprotein U,Chromatin regulator;Transcription regulation;Ubl conjugation,0.0,CHEMBL4296007,0.0,,,,2.0,1.0,1.0,0.0,1.0,1.0,0.2496376245711616,,,False,False,2026-10-24
+HRAS,SFARI1,P01112,GTPase HRas,Hydrolase;Ubl conjugation,245.0,CHEMBL2167,0.0,,,,26.0,1.0,0.0,,,,,,,True,True,2026-10-24
+IQSEC2,SFARI1,Q5JU85,IQ motif and SEC7 domain-containing protein 2,,2.0,,,,,,,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+IRF2BPL,SFARI1,Q9H1B7,Probable E3 ubiquitin-protein ligase IRF2BPL,Transferase;Ubl conjugation,1.0,,,,,,,1.0,1.0,1.0,0.0512076901780659,1.0,0.2420332526723065,,,False,True,2026-10-24
+KANSL1,SFARI1,Q7Z3B3,KAT8 regulatory NSL complex subunit 1,Chromatin regulator;Ubl conjugation,2.0,,,,,,,1.0,1.0,0.0,1.0,1.0,0.3192462389256345,,,False,False,2026-10-24
+KATNAL2,SFARI1;denovoLoF_p<1e-3,Q8IYT4,Katanin p60 ATPase-containing subunit A-like 2,,0.0,CHEMBL6066251,0.0,,,,4.0,1.0,0.0,2.0,0.0006772939808024,0.0,1.0,,,False,True,2026-10-24
+KCNB1,SFARI1,Q14721,Potassium voltage-gated channel subfamily B member 1,Ion channel;Transport;Ubl conjugation;Voltage-gated channel,6.0,CHEMBL2363000,0.0,,,,21.0,1.0,1.0,0.0,1.0,1.0,0.2581981164987779,,,True,False,2026-10-24
+KCNQ2,SFARI1,O43526,Potassium voltage-gated channel subfamily KQT member 2,Ion channel;Transport;Ubl conjugation;Voltage-gated channel,25.0,CHEMBL2476,1.0,3.0,ACTIVATOR,CHEMBL266510,65.0,1.0,0.0,2.0,0.0015953304892446,0.0,1.0,,,True,True,2026-10-24
+KCNQ3,SFARI1,O43525,Potassium voltage-gated channel subfamily KQT member 3,Ion channel;Transport;Ubl conjugation;Voltage-gated channel,1.0,CHEMBL2684,0.0,,,,1.0,1.0,0.0,0.0,1.0,1.0,0.2618002705355671,,,False,False,2026-10-24
+KCNS3,denovoLoF_p<1e-3,Q9BQ31,Delayed-rectifier potassium channel regulatory subunit KCNS3,Ion channel;Transport;Voltage-gated channel,0.0,,,,,,,2.0,0.0,2.0,0.0005152291778127,0.0,1.0,,,False,True,2026-10-24
+KDM2B,SFARI1,Q8NHM5,Lysine-specific demethylase 2B,Chromatin regulator;Oxidoreductase;Transcription regulation;Ubl conjugation,4.0,CHEMBL3779760,0.0,,,,513.0,1.0,0.0,0.0,1.0,1.0,0.3717851122371206,,,True,False,2026-10-24
+KDM3B,SFARI1,Q7LBC6,Lysine-specific demethylase 3B,Chromatin regulator;Oxidoreductase;Transcription regulation;Ubl conjugation,36.0,CHEMBL3784906,0.0,,,,1.0,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+KDM5B,SFARI1;denovoLoF_p<1e-3,Q9UGL1,Lysine-specific demethylase 5B,Chromatin regulator;Oxidoreductase;Transcription regulation;Ubl conjugation,56.0,CHEMBL3774295,0.0,,,,909.0,1.0,0.0,3.0,0.0001634001600951,4.0,0.002266715212447,,,True,False,2026-10-24
+KDM5C,SFARI1,P41229,Lysine-specific demethylase 5C,Chromatin regulator;Oxidoreductase;Transcription regulation;Ubl conjugation,2.0,CHEMBL2163176,0.0,,,,112.0,1.0,0.0,0.0,1.0,0.0,1.0,,,True,True,2026-10-24
+KDM6B,SFARI1;denovoLoF_p<1e-3,O15054,Lysine-specific demethylase 6B,Chromatin regulator;Oxidoreductase;Ubl conjugation,6.0,CHEMBL1938211,0.0,,,,59.0,1.0,0.0,3.0,0.0002097831946006,1.0,0.44299256986724,,,True,True,2026-10-24
+KIAA0232,SFARI1,Q92628,Uncharacterized protein KIAA0232,,0.0,,,,,,,1.0,0.0,1.0,0.0879603513104149,0.0,1.0,,,False,True,2026-10-24
+KLHL20,SFARI1,Q9Y2M5,Kelch-like protein 20,Transport,3.0,CHEMBL6067461,0.0,,,,1.0,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+KMT2A,SFARI1;denovoLoF_p<1e-3,Q03164,Histone-lysine N-methyltransferase 2A,Chromatin regulator;Methyltransferase;Transcription regulation;Transferase;Ubl conjugation,60.0,CHEMBL1293299,0.0,,,,577.0,1.0,1.0,5.0,8.281031725921614e-06,1.0,0.748775026725927,,,True,True,2026-10-24
+KMT2C,SFARI1,Q8NEZ4,Histone-lysine N-methyltransferase 2C,Chromatin regulator;Methyltransferase;Transcription regulation;Transferase,9.0,CHEMBL2189113,0.0,,,,0.0,1.0,1.0,3.0,0.0044534357909614,3.0,0.2448624384085932,,,False,True,2026-10-24
+KMT2E,SFARI1,Q8IZD2,Histone reader KMT2E,Chromatin regulator;Transcription regulation;Ubl conjugation,3.0,CHEMBL4523393,0.0,,,,0.0,1.0,1.0,2.0,0.0069293881360624,0.0,1.0,,,False,True,2026-10-24
+KMT5B,SFARI1,Q4FZB7,Histone-lysine N-methyltransferase KMT5B,Chromatin regulator;Methyltransferase;Transcription regulation;Transferase;Ubl conjugation,10.0,CHEMBL2321645,0.0,,,,5.0,1.0,0.0,,,,,,,False,True,2026-10-24
+LDB1,SFARI1,Q86U70,LIM domain-binding protein 1,Ubl conjugation,9.0,,,,,,,1.0,0.0,1.0,0.026807191140882,0.0,1.0,,,False,True,2026-10-24
+LRRC4C,SFARI1,Q9HCJ2,Leucine-rich repeat-containing protein 4C,,1.0,,,,,,,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+LZTR1,SFARI1,Q8N653,Leucine-zipper-like transcriptional regulator 1,,3.0,,,,,,,1.0,0.0,0.0,1.0,1.0,0.2535409358208664,2.87786430687763,0.0,False,False,2026-10-24
+MAGEC3,SFARI1,Q8TD91,Melanoma-associated antigen C3,,0.0,,,,,,,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+MAGEL2,SFARI1,Q9UJ55,MAGE-like protein 2,Transcription regulation;Transport,0.0,,,,,,,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+MAP1A,SFARI1,P78559,Microtubule-associated protein 1A,,0.0,,,,,,,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+MBD5,SFARI1,Q9P267,Methyl-CpG-binding domain protein 5,,0.0,,,,,,,1.0,1.0,2.0,0.0045530746719247,0.0,1.0,,,False,True,2026-10-24
+MBOAT7,SFARI1,Q96N66,Membrane-bound acylglycerophosphatidylinositol O-acyltransferase MBOAT7,Transferase,1.0,CHEMBL6066408,0.0,,,,2.0,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+MECP2,SFARI1;denovoLoF_p<1e-3,P51608,Methyl-CpG-binding protein 2,Transcription regulation,9.0,CHEMBL3638346,0.0,,,,1.0,1.0,1.0,4.0,4.7613258530606386e-08,0.0,1.0,,,False,True,2026-10-24
+MED13,SFARI1;denovoLoF_p<1e-3,Q9UHV7,Mediator of RNA polymerase II transcription subunit 13,Transcription regulation,5.0,,,,,,,1.0,1.0,3.0,0.0004419718844919,1.0,0.5305739017130358,,,False,True,2026-10-24
+MED13L,SFARI1,Q71F56,Mediator of RNA polymerase II transcription subunit 13-like,Transcription regulation,0.0,,,,,,,1.0,1.0,1.0,0.1356904887823854,0.0,1.0,,,False,True,2026-10-24
+MEF2C,SFARI1,Q06413,Myocyte-specific enhancer factor 2C,Transcription regulation;Ubl conjugation,0.0,,,,,,,1.0,1.0,0.0,1.0,1.0,0.1548879946384888,,,False,False,2026-10-24
+MEIS2,SFARI1,O14770,Homeobox protein Meis2,Transcription regulation,4.0,,,,,,,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+MKX,SFARI1,Q8IYA7,Homeobox protein Mohawk,,0.0,,,,,,,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+MSL3,SFARI1,Q8N5Y2,MSL complex subunit 3,Chromatin regulator;Transcription regulation,3.0,,,,,,,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+MTOR,SFARI1,P42345,Serine/threonine-protein kinase mTOR,Kinase;Transferase;Ubl conjugation,70.0,CHEMBL2842,26.0,4.0,INHIBITOR,CHEMBL1234354;CHEMBL1236962;CHEMBL1258517;CHEMBL1334033;CHEMBL1801204;CHEMBL1879463;CHEMBL1922094;CHEMBL2103839;CHEMBL2141712;CHEMBL2326966;CHEMBL2331680;CHEMBL2336325;CHEMBL3120215;CHEMBL3393066;CHEMBL3544963;CHEMBL3545006;CHEMBL3545096;CHEMBL3545097;CHEMBL3545248;CHEMBL3545323;CHEMBL3545366;CHEMBL,4846.0,1.0,1.0,0.0,1.0,1.0,0.5879585644686915,,,True,False,2026-10-24
+MYCBP2,SFARI1,O75592,E3 ubiquitin-protein ligase MYCBP2,Transferase;Ubl conjugation,2.0,CHEMBL6067006,0.0,,,,2.0,1.0,0.0,0.0,1.0,2.0,0.4837087202538819,,,False,False,2026-10-24
+MYT1L,SFARI1,Q9UL68,Myelin transcription factor 1-like protein,Transcription regulation,0.0,,,,,,,1.0,0.0,2.0,0.00289957859366,2.0,0.0648043466183705,,,False,True,2026-10-24
+NAA15,SFARI1,Q9BXJ9,"N-alpha-acetyltransferase 15, NatA auxiliary subunit",Transcription regulation,12.0,CHEMBL6067401,0.0,,,,0.0,1.0,1.0,2.0,0.0015738900752933,0.0,1.0,,,False,True,2026-10-24
+NACC1,SFARI1,Q96RE7,Nucleus accumbens-associated protein 1,Transcription regulation;Ubl conjugation,4.0,CHEMBL5724631,0.0,,,,0.0,1.0,1.0,1.0,0.0342243555639615,0.0,1.0,,,False,True,2026-10-24
+NBEA,SFARI1,Q8NFP9,Neurobeachin,,1.0,,,,,,,1.0,1.0,1.0,0.1766439145931808,1.0,0.6410842855618475,,,False,True,2026-10-24
+NCKAP1,SFARI1,Q9Y2A7,Nck-associated protein 1,,5.0,CHEMBL6067155,0.0,,,,0.0,1.0,0.0,2.0,0.002665867569119,0.0,1.0,,,False,True,2026-10-24
+NCOA1,SFARI1,Q15788,Nuclear receptor coactivator 1,Transcription regulation;Transferase;Ubl conjugation,300.0,CHEMBL1615387,0.0,,,,1.0,1.0,0.0,0.0,1.0,1.0,0.394306588964718,,,False,False,2026-10-24
+NEXMIF,SFARI1,Q5QGS0,Neurite extension and migration factor,Transcription regulation,0.0,,,,,,,1.0,0.0,,,,,,,False,True,2026-10-24
+NF1,SFARI1,P21359,Neurofibromin,Ubl conjugation,26.0,,,,,,,1.0,1.0,1.0,0.1708128736318012,1.0,0.627479775766998,,,False,True,2026-10-24
+NFIA,expr_candidate+denovo,Q12857,Nuclear factor 1 A-type,Transcription regulation,5.0,,,,,,,2.0,0.0,1.0,0.0359426384781352,1.0,0.1754955241382378,3.2003044715473,2.0,False,True,2026-10-24
+NFIB,expr_candidate+denovo,O00712,Nuclear factor 1 B-type,Transcription regulation,2.0,,,,,,,2.0,1.0,1.0,0.0321200724033505,0.0,1.0,3.06838406091964,1.0,False,True,2026-10-24
+NIPBL,SFARI1,Q6KC79,Nipped-B-like protein,Transcription regulation,3.0,,,,,,,1.0,1.0,0.0,1.0,0.0,1.0,3.22710372351706,1.0,False,True,2026-10-24
+NLGN2,SFARI1,Q8NFZ4,Neuroligin-2,,14.0,,,,,,,1.0,0.0,0.0,1.0,2.0,0.034886810395976,,,False,False,2026-10-24
+NLGN3,SFARI1,Q9NZ94,Neuroligin-3,,1.0,,,,,,,1.0,0.0,0.0,1.0,1.0,0.2556143927476038,,,False,False,2026-10-24
+NLGN4X,SFARI1;expr_candidate+denovo,Q8N0W4,"Neuroligin-4, X-linked",,3.0,,,,,,,1.0,0.0,1.0,0.0524583984913035,0.0,1.0,2.62139453469196,2.0,False,True,2026-10-24
+NR2F1,expr_candidate+denovo,P10589,COUP transcription factor 1,Receptor;Transcription regulation,1.0,CHEMBL1961789,0.0,,,,0.0,2.0,1.0,0.0,1.0,2.0,0.0098557063032554,3.96073954720459,1.0,False,False,2026-10-24
+NR3C2,SFARI1,P08235,Mineralocorticoid receptor,Receptor;Transcription regulation,30.0,CHEMBL1994,17.0,4.0,AGONIST;ANTAGONIST;MODULATOR,CHEMBL1095097;CHEMBL1200542;CHEMBL1200592;CHEMBL1201010;CHEMBL1215331;CHEMBL1371200;CHEMBL1393;CHEMBL1428;CHEMBL1463345;CHEMBL1480;CHEMBL1509;CHEMBL2181927;CHEMBL2181929;CHEMBL2348780;CHEMBL3545393;CHEMBL3916929;CHEMBL4088896,966.0,1.0,1.0,1.0,0.0628994689564072,1.0,0.2899948781674371,,,True,True,2026-10-24
+NR4A2,SFARI1,P43354,Nuclear receptor subfamily 4 group A member 2,Receptor;Transcription regulation,8.0,CHEMBL5002,0.0,,,,105.0,1.0,0.0,0.0,1.0,1.0,0.1880134034465821,,,True,False,2026-10-24
+NRXN1,SFARI1;denovoLoF_p<1e-3,P58400,Neurexin-1-beta,,2.0,,,,,,,1.0,0.0,3.0,0.0001643295928159,4.0,0.0022825023938297,,,False,False,2026-10-24
+NRXN2,SFARI1,P58401,Neurexin-2-beta,,1.0,,,,,,,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+NRXN3,SFARI1,Q9HDB5,Neurexin-3-beta,,0.0,,,,,,,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+NSD1,SFARI1,Q96L73,"Histone-lysine N-methyltransferase, H3 lysine-36 specific",Chromatin regulator;Methyltransferase;Transcription regulation;Transferase;Ubl conjugation,4.0,CHEMBL3588738,0.0,,,,10.0,1.0,1.0,1.0,0.162955462207955,1.0,0.608489542816539,,,True,True,2026-10-24
+NUDT17,denovoLoF_p<1e-3,P0C025,m7GpppN-mRNA hydrolase NUDT17,Hydrolase,1.0,,,,,,,,,2.0,0.000232042531416,0.0,1.0,,,False,True,2026-10-24
+NUP155,SFARI1,O75694,Nuclear pore complex protein Nup155,Transport;Ubl conjugation,10.0,CHEMBL4295680,0.0,,,,4.0,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+PACS1,SFARI1,Q6VY07,Phosphofurin acidic cluster sorting protein 1,,0.0,,,,,,,1.0,1.0,0.0,1.0,1.0,0.2847916821419824,,,False,False,2026-10-24
+PAH,SFARI1,P00439,Phenylalanine-4-hydroxylase,Oxidoreductase,20.0,CHEMBL3076,1.0,4.0,ACTIVATOR,CHEMBL1201775,1.0,1.0,0.0,0.0,1.0,0.0,1.0,,,True,True,2026-10-24
+PAX5,SFARI1,Q02548,Paired box protein Pax-5,Transcription regulation,2.0,,,,,,,1.0,0.0,3.0,0.0010568495123752,0.0,1.0,,,False,True,2026-10-24
+PBX1,expr_candidate+denovo,P40424,Pre-B-cell leukemia transcription factor 1,Transcription regulation,2.0,,,,,,,2.0,0.0,1.0,0.0280259609729173,2.0,0.0101675124090709,2.96448202585535,2.0,False,False,2026-10-24
+PCCB,SFARI1,P05166,"Propionyl-CoA carboxylase beta chain, mitochondrial",,23.0,,,,,,,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+PCDH19,SFARI1,Q8TAB3,Protocadherin-19,,1.0,,,,,,,1.0,1.0,0.0,1.0,1.0,0.3293485068509779,,,False,False,2026-10-24
+PHF12,SFARI1,Q96QT6,PHD finger protein 12,Transcription regulation;Ubl conjugation,6.0,,,,,,,1.0,0.0,0.0,1.0,1.0,0.3007743932381311,,,False,False,2026-10-24
+PHF2,SFARI1,O75151,Lysine-specific demethylase PHF2,Chromatin regulator;Oxidoreductase;Transcription regulation;Ubl conjugation,9.0,CHEMBL4295672,0.0,,,,0.0,1.0,0.0,2.0,0.002494487117784,0.0,1.0,,,False,True,2026-10-24
+PHF21A,SFARI1;expr_candidate+denovo,Q96BD5,PHD finger protein 21A,Chromatin regulator;Transcription regulation;Ubl conjugation,2.0,,,,,,,1.0,1.0,1.0,0.0439209578962511,0.0,1.0,3.72364075406484,2.0,False,True,2026-10-24
+PHF3,SFARI1;denovoLoF_p<1e-3,Q92576,PHD finger protein 3,Ubl conjugation,5.0,,,,,,,1.0,0.0,3.0,0.0003671023149173,2.0,0.15904588653207,,,False,True,2026-10-24
+PHIP,SFARI1,Q8WWQ0,PH-interacting protein,Ubl conjugation,146.0,CHEMBL2176773,0.0,,,,0.0,1.0,1.0,0.0,1.0,2.0,0.1330532177967659,,,False,False,2026-10-24
+POGZ,SFARI1;denovoLoF_p<1e-3,Q7Z3K3,Pogo transposable element with ZNF domain,Ubl conjugation,3.0,,,,,,,1.0,1.0,4.0,2.9012131346921854e-06,4.0,0.0016356445554847,,,False,True,2026-10-24
+POMGNT1,SFARI1,Q8WZA1,"Protein O-linked-mannose beta-1,2-N-acetylglucosaminyltransferase 1",Transferase,10.0,CHEMBL2321629,0.0,,,,0.0,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+PPP1R9B,SFARI1,Q96SB3,Neurabin-2,,0.0,CHEMBL5725188,0.0,,,,0.0,1.0,0.0,0.0,1.0,1.0,0.2471986031797498,,,False,False,2026-10-24
+PPP2R5D,SFARI1,Q14738,Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit delta isoform,,2.0,CHEMBL6067334,0.0,,,,0.0,1.0,1.0,1.0,0.0389898186860722,0.0,1.0,,,False,True,2026-10-24
+PPP5C,SFARI1,P53041,Serine/threonine-protein phosphatase 5,Hydrolase,22.0,CHEMBL3425389,1.0,2.0,INHIBITOR,CHEMBL4297300,16.0,1.0,0.0,0.0,1.0,2.0,0.0134694140150825,,,True,False,2026-10-24
+PRMT9,SFARI1,Q86XK2,F-box only protein 11,,1.0,CHEMBL4879484,0.0,,,,0.0,1.0,0.0,,,,,,,False,True,2026-10-24
+PRR12,SFARI1,Q9ULL5,Proline-rich protein 12,,0.0,CHEMBL5725158,0.0,,,,1.0,1.0,1.0,0.0,1.0,1.0,0.5075005793363493,,,False,False,2026-10-24
+PRR14L,SFARI1,Q5THK1,Protein PRR14L,,0.0,,,,,,,1.0,0.0,1.0,0.1323206599002384,1.0,0.5268048189445109,,,False,True,2026-10-24
+PSMD11,SFARI1,O00231,26S proteasome non-ATPase regulatory subunit 11,Ubl conjugation,114.0,CHEMBL3831212,0.0,,,,3.0,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+PSMD12,SFARI1,O00232,26S proteasome non-ATPase regulatory subunit 12,Ubl conjugation,114.0,CHEMBL3831211,0.0,,,,2.0,1.0,1.0,1.0,0.0296912782566498,0.0,1.0,,,False,True,2026-10-24
+PSMD6,SFARI1,Q15008,26S proteasome non-ATPase regulatory subunit 6,,113.0,CHEMBL3831213,0.0,,,,2.0,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+PTCHD1,SFARI1,Q96NR3,Patched domain-containing protein 1,,0.0,,,,,,,1.0,0.0,0.0,1.0,0.0,1.0,3.49712293950954,0.0,False,True,2026-10-24
+PTEN,SFARI1;denovoLoF_p<1e-3,P60484,"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN",Hydrolase;Ubl conjugation,12.0,CHEMBL2052032,0.0,,,,0.0,1.0,1.0,3.0,3.090605181148586e-06,8.0,3.318709286425844e-12,,,False,False,2026-10-24
+PTK7,SFARI1,Q13308,Inactive tyrosine-protein kinase 7,Receptor,1.0,,,,,,,1.0,0.0,0.0,1.0,2.0,0.0819886632688055,,,False,False,2026-10-24
+PTPN11,SFARI1,Q06124,Tyrosine-protein phosphatase non-receptor type 11,Hydrolase,115.0,CHEMBL3864,1.0,2.0,INHIBITOR,CHEMBL4650521,2112.0,1.0,1.0,0.0,1.0,1.0,0.1866005427707773,,,True,False,2026-10-24
+PTPN13,expr_candidate+denovo,Q12923,Tyrosine-protein phosphatase non-receptor type 13,Hydrolase,12.0,CHEMBL2976,0.0,,,,2.0,,,1.0,0.1515053249520992,1.0,0.5794185612774821,3.56996994125514,2.0,False,True,2026-10-24
+RAI1,SFARI1,Q7Z5J4,Retinoic acid-induced protein 1,Ubl conjugation,0.0,,,,,,,1.0,1.0,1.0,0.1181861687285121,2.0,0.1430718403160307,,,False,False,2026-10-24
+RALGAPB,SFARI1,Q86X10,Ral GTPase-activating protein subunit beta,,1.0,,,,,,,1.0,0.0,1.0,0.0938960674141791,0.0,1.0,,,False,True,2026-10-24
+RELN,SFARI1,P78509,Reelin,Hydrolase;Protease,1.0,,,,,,,1.0,0.0,1.0,0.2040881749936594,3.0,0.1212477473379852,,,False,False,2026-10-24
+RERE,SFARI1,Q9P2R6,Arginine-glutamic acid dipeptide repeats protein,Transcription regulation;Ubl conjugation,1.0,,,,,,,1.0,1.0,1.0,0.0981886735599432,1.0,0.4200675600290421,,,False,True,2026-10-24
+RFX3,SFARI1,P48380,Transcription factor RFX3,Transcription regulation,0.0,,,,,,,1.0,0.0,0.0,1.0,2.0,0.0293323356386007,,,False,False,2026-10-24
+RIMS1,SFARI1,Q86UR5,Regulating synaptic membrane exocytosis protein 1,Transport,1.0,,,,,,,1.0,0.0,2.0,0.0057888023410227,0.0,1.0,,,False,True,2026-10-24
+RNU2-2,SFARI1,,,,,,,,,,,1.0,1.0,,,,,,,False,True,2026-10-24
+RNU4-2,SFARI1,,,,,,,,,,,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+RNU5B-1,SFARI1,,,,,,,,,,,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+RORB,SFARI1,Q92753,Nuclear receptor ROR-beta,Receptor;Transcription regulation,0.0,CHEMBL3091268,0.0,,,,106.0,1.0,1.0,0.0,1.0,1.0,0.1545940993090498,,,True,False,2026-10-24
+RPL12,expr_candidate+denovo,P30050,Large ribosomal subunit protein uL11,Ubl conjugation,93.0,CHEMBL6066923,0.0,,,,2.0,,,1.0,0.0108886524841195,0.0,1.0,3.54721898064244,1.0,False,True,2026-10-24
+RUNX1T1,SFARI1,Q06455,Protein CBFA2T1,Transcription regulation,9.0,,,,,,,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+SATB1,SFARI1,Q01826,DNA-binding protein SATB1,Chromatin regulator;Transcription regulation;Ubl conjugation,8.0,,,,,,,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+SATB2,SFARI1,Q9UPW6,DNA-binding protein SATB2,Chromatin regulator;Transcription regulation;Ubl conjugation,3.0,CHEMBL5725029,0.0,,,,0.0,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+SCN1A,SFARI1,P35498,Sodium channel protein type 1 subunit alpha,Ion channel;Transport;Voltage-gated channel,1.0,CHEMBL1845,0.0,,,,85.0,1.0,1.0,1.0,0.124156261993362,3.0,0.0340047505635422,,,True,False,2026-10-24
+SCN2A,SFARI1;denovoLoF_p<1e-3,Q99250,Sodium channel protein type 2 subunit alpha,Ion channel;Transport;Ubl conjugation;Voltage-gated channel,5.0,CHEMBL4187,1.0,2.0,BLOCKER,CHEMBL29919,74.0,1.0,0.0,9.0,3.038822153675663e-14,7.0,8.68134767361174e-06,,,True,True,2026-10-24
+SCN8A,SFARI1,Q9UQD0,Sodium channel protein type 8 subunit alpha,Ion channel;Transport;Ubl conjugation;Voltage-gated channel,4.0,CHEMBL5202,1.0,2.0,INHIBITOR,CHEMBL4650313,1293.0,1.0,0.0,0.0,1.0,1.0,0.4978170957523751,,,True,False,2026-10-24
+SET,denovoLoF_p<1e-3,Q01105,Protein SET,Ubl conjugation,3.0,CHEMBL4295798,0.0,,,,1.0,2.0,0.0,2.0,0.0001818386394364,0.0,1.0,,,False,True,2026-10-24
+SETBP1,SFARI1,Q9Y6X0,SET-binding protein,,0.0,,,,,,,1.0,0.0,1.0,0.0999712519906082,1.0,0.4260853701722951,,,False,True,2026-10-24
+SETD1A,SFARI1,O15047,Histone-lysine N-methyltransferase SETD1A,Chromatin regulator;Methyltransferase;Transcription regulation;Transferase,4.0,CHEMBL4105954,0.0,,,,2.0,1.0,1.0,0.0,1.0,2.0,0.1198867329854991,,,False,False,2026-10-24
+SETD2,SFARI1,Q9BYW2,Histone-lysine N-methyltransferase SETD2,Chromatin regulator;Methyltransferase;Transcription regulation;Transferase;Ubl conjugation,43.0,CHEMBL3108647,0.0,,,,54.0,1.0,0.0,2.0,0.0127936601789321,1.0,0.5901019634760507,,,True,True,2026-10-24
+SETD5,SFARI1,Q9C0A6,Histone-lysine N-methyltransferase SETD5,Chromatin regulator;Methyltransferase;Transcription regulation;Transferase,0.0,,,,,,,1.0,1.0,1.0,0.0907831500642163,3.0,0.0145191076360402,,,False,False,2026-10-24
+SF1,SFARI1,Q13285,Steroidogenic factor 1,Receptor;Transcription regulation;Ubl conjugation,6.0,CHEMBL4666,0.0,,,,64.0,1.0,0.0,0.0,1.0,0.0,1.0,,,True,True,2026-10-24
+SHANK2,SFARI1,Q9UPX8,SH3 and multiple ankyrin repeat domains protein 2,,2.0,,,,,,,1.0,0.0,2.0,0.0065225031451986,1.0,0.4654452014780243,,,False,True,2026-10-24
+SHANK3,SFARI1;denovoLoF_p<1e-3,Q9BYB0,SH3 and multiple ankyrin repeat domains protein 3,,3.0,,,,,,,1.0,1.0,6.0,2.6828933698106583e-09,1.0,0.4500487534335912,,,False,True,2026-10-24
+SIN3A,SFARI1,Q96ST3,Paired amphipathic helix protein Sin3a,Transcription regulation;Ubl conjugation,0.0,CHEMBL5465264,0.0,,,,2.0,1.0,1.0,0.0,1.0,2.0,0.0734301929888409,,,False,False,2026-10-24
+SKI,SFARI1,P12755,Ski oncogene,Ubl conjugation,4.0,,,,,,,1.0,0.0,1.0,0.0469429203339663,1.0,0.2238987265175555,,,False,True,2026-10-24
+SLC6A1,SFARI1;denovoLoF_p<1e-3,P30531,Sodium- and chloride-dependent GABA transporter 1,Transport,5.0,CHEMBL1903,1.0,4.0,INHIBITOR,CHEMBL1695,71.0,1.0,1.0,2.0,0.0007626347998661,5.0,2.768709995698945e-06,,,True,False,2026-10-24
+SLC9A6,SFARI1,Q92581,Sodium/hydrogen exchanger 6,Transport;Ubl conjugation,0.0,,,,,,,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+SMARCA1,SFARI1,P28370,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 1,Chromatin regulator;Hydrolase;Transcription regulation;Ubl conjugation,0.0,CHEMBL6066924,0.0,,,,2.0,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+SMARCA2,SFARI1,P51531,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 2,Hydrolase;Transcription regulation;Ubl conjugation,31.0,CHEMBL2362979,0.0,,,,204.0,1.0,1.0,0.0,1.0,1.0,0.424886824619846,,,True,False,2026-10-24
+SMARCA4,SFARI1,P51532,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 4,Chromatin regulator;Hydrolase;Transcription regulation;Ubl conjugation,28.0,CHEMBL3085620,0.0,,,,192.0,1.0,0.0,0.0,1.0,3.0,0.0215769271722954,,,True,False,2026-10-24
+SMARCC2,SFARI1,Q8TAQ2,SWI/SNF complex subunit SMARCC2,Chromatin regulator;Transcription regulation;Ubl conjugation,9.0,CHEMBL5725099,0.0,,,,2.0,1.0,1.0,2.0,0.0030442594917479,0.0,1.0,,,False,True,2026-10-24
+SON,SFARI1,P18583,Protein SON,Ubl conjugation,4.0,CHEMBL5725088,0.0,,,,2.0,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+SOS2,SFARI1,Q07890,Son of sevenless homolog 2,,11.0,CHEMBL4524041,0.0,,,,0.0,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+SOX5,SFARI1,P35711,Transcription factor SOX-5,Transcription regulation,0.0,,,,,,,1.0,1.0,1.0,0.049140411207036,0.0,1.0,,,False,True,2026-10-24
+SPAST,SFARI1;denovoLoF_p<1e-3,Q9UBP0,Spastin,,7.0,CHEMBL5169203,0.0,,,,1.0,1.0,0.0,2.0,0.0008058624292064,0.0,1.0,,,False,True,2026-10-24
+SRCAP,SFARI1,Q6ZRS2,Chromatin remodeling protein SRCAP,Chromatin regulator;Hydrolase;Transcription regulation,10.0,,,,,,,1.0,0.0,1.0,0.1919226110977997,4.0,0.0275057956672214,,,False,False,2026-10-24
+SRPRA,SFARI1,P08240,Signal recognition particle receptor subunit alpha,Receptor,5.0,CHEMBL4105934,0.0,,,,1.0,1.0,0.0,,,,,,,False,True,2026-10-24
+SRSF11,denovoLoF_p<1e-3,Q05519,Serine/arginine-rich splicing factor 11,Ubl conjugation,0.0,,,,,,,2.0,0.0,2.0,0.0005008261892925,0.0,1.0,,,False,True,2026-10-24
+STXBP1,SFARI1,P61764,Syntaxin-binding protein 1,Transport,1.0,CHEMBL6067178,0.0,,,,2.0,1.0,1.0,1.0,0.039053199083076,2.0,0.0191947541715306,,,False,False,2026-10-24
+SUV420H1,denovoLoF_p<1e-3,Q4FZB7,Histone-lysine N-methyltransferase KMT5B,Chromatin regulator;Methyltransferase;Transcription regulation;Transferase;Ubl conjugation,10.0,CHEMBL2321645,0.0,,,,5.0,,,4.0,4.636669569775392e-07,3.0,0.003874385184962,,,False,True,2026-10-24
+SYN1,SFARI1,P17600,Synapsin-1,,0.0,,,,,,,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+SYNGAP1,SFARI1;denovoLoF_p<1e-3,Q96PV0,Ras/Rap GTPase-activating protein SynGAP,,0.0,,,,,,,1.0,1.0,7.0,7.895678756807732e-12,3.0,0.0120300697741507,,,False,True,2026-10-24
+TANC2,SFARI1,Q9HCD6,Protein TANC2,,0.0,,,,,,,1.0,1.0,1.0,0.1236362189049898,1.0,0.501297147230257,,,False,True,2026-10-24
+TAOK1,SFARI1,Q7L7X3,Serine/threonine-protein kinase TAO1,Kinase;Transferase,0.0,CHEMBL5261,0.0,,,,277.0,1.0,1.0,0.0,1.0,0.0,1.0,,,True,True,2026-10-24
+TBCEL,SFARI1,Q5QJ74,Tubulin-specific chaperone cofactor E-like protein,,0.0,,,,,,,1.0,0.0,1.0,0.0276412512726343,0.0,1.0,,,False,True,2026-10-24
+TBCK,SFARI1,Q8TEA7,TBC domain-containing protein kinase-like protein,,0.0,,,,,,,1.0,1.0,0.0,1.0,2.0,0.0393762305157049,,,False,False,2026-10-24
+TBL1XR1,SFARI1,Q9BZK7,F-box-like/WD repeat-containing protein TBL1XR1,Chromatin regulator;Transcription regulation;Ubl conjugation,1.0,CHEMBL6067529,0.0,,,,2.0,1.0,0.0,1.0,0.0333959422213596,2.0,0.0142408390423251,,,False,False,2026-10-24
+TBR1,SFARI1;denovoLoF_p<1e-3,Q16650,T-box brain protein 1,Transcription regulation,0.0,,,,,,,1.0,0.0,2.0,0.0009846370890812,4.0,0.0001096745555399,,,False,False,2026-10-24
+TCF20,SFARI1,Q9UGU0,Transcription factor 20,Transcription regulation;Ubl conjugation,0.0,,,,,,,1.0,1.0,1.0,0.1213211778607877,0.0,1.0,,,False,True,2026-10-24
+TCF4,SFARI1,P15884,Transcription factor 4,Transcription regulation,5.0,,,,,,,1.0,1.0,1.0,0.0497673345908682,1.0,0.2359474397682247,,,False,True,2026-10-24
+TCF7L2,SFARI1;denovoLoF_p<1e-3,Q9NQB0,Transcription factor 7-like 2,Transcription regulation;Ubl conjugation,3.0,,,,,,,1.0,0.0,2.0,0.0007701789510242,0.0,1.0,,,False,True,2026-10-24
+TEK,SFARI1,Q02763,Angiopoietin-1 receptor,Kinase;Receptor;Transferase;Ubl conjugation,17.0,CHEMBL4128,8.0,4.0,INHIBITOR,CHEMBL1230609;CHEMBL1946170;CHEMBL2010872;CHEMBL24828;CHEMBL3545365;CHEMBL3910075;CHEMBL3989914;CHEMBL3991932,966.0,1.0,0.0,0.0,1.0,0.0,1.0,,,True,True,2026-10-24
+TLE3,SFARI1,Q04726,Transducin-like enhancer protein 3,Transcription regulation;Ubl conjugation,0.0,,,,,,,1.0,0.0,0.0,1.0,1.0,0.2356817335926251,,,False,False,2026-10-24
+TLK2,SFARI1,Q86UE8,Serine/threonine-protein kinase tousled-like 2,Chromatin regulator;Kinase;Transferase,2.0,CHEMBL5404,0.0,,,,92.0,1.0,1.0,1.0,0.04832479240899,1.0,0.229812763086366,,,True,True,2026-10-24
+TM9SF4,SFARI1,Q92544,Transmembrane 9 superfamily member 4,,0.0,CHEMBL6067183,0.0,,,,0.0,1.0,0.0,0.0,1.0,1.0,0.2003412324799242,,,False,False,2026-10-24
+TNRC6B,expr_candidate+denovo,Q9UPQ9,Trinucleotide repeat-containing gene 6B protein,,0.0,,,,,,,2.0,0.0,1.0,0.1139303123771099,0.0,1.0,2.93172162588726,2.0,False,True,2026-10-24
+TRAF7,SFARI1,Q6Q0C0,E3 ubiquitin-protein ligase TRAF7,Transcription regulation;Transferase;Ubl conjugation,1.0,,,,,,,1.0,1.0,0.0,1.0,2.0,0.0233311037613824,,,False,False,2026-10-24
+TRIM23,SFARI1,P36406,E3 ubiquitin-protein ligase TRIM23,Transferase;Ubl conjugation,2.0,,,,,,,1.0,0.0,0.0,1.0,1.0,0.1812092152963268,,,False,False,2026-10-24
+TRIO,SFARI1,O75962,Triple functional domain protein,Kinase;Transferase,4.0,CHEMBL4523153,0.0,,,,0.0,1.0,0.0,1.0,0.1848030689261679,4.0,0.0240891810999547,,,False,False,2026-10-24
+TRIP12,SFARI1,Q14669,E3 ubiquitin-protein ligase TRIP12,Transferase,5.0,,,,,,,1.0,1.0,2.0,0.0079180675632522,2.0,0.1533626694211165,,,False,True,2026-10-24
+TRRAP,SFARI1,Q9Y4A5,Transformation/transcription domain-associated protein,Chromatin regulator;Transcription regulation;Ubl conjugation,9.0,CHEMBL6067383,0.0,,,,0.0,1.0,1.0,0.0,1.0,5.0,0.0120894916624461,,,False,False,2026-10-24
+TSC1,SFARI1,Q92574,Hamartin,Ubl conjugation,5.0,,,,,,,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+TSC2,SFARI1,P49815,Tuberin,Ubl conjugation,2.0,CHEMBL6067627,0.0,,,,0.0,1.0,1.0,0.0,1.0,4.0,0.0039568941073082,,,False,False,2026-10-24
+TSHZ1,SFARI1,Q6ZSZ6,Teashirt homolog 1,Transcription regulation,0.0,,,,,,,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+TSHZ3,SFARI1,Q63HK5,Teashirt homolog 3,Transcription regulation,1.0,,,,,,,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+UBAP2L,SFARI1,Q14157,Ubiquitin-associated protein 2-like,,0.0,CHEMBL4295819,0.0,,,,0.0,1.0,0.0,1.0,0.0697961866301121,0.0,1.0,,,False,True,2026-10-24
+UBE3A,SFARI1,Q05086,Ubiquitin-protein ligase E3A,Transferase,25.0,CHEMBL6067133,0.0,,,,0.0,1.0,1.0,0.0,1.0,1.0,0.2625698820557322,,,False,False,2026-10-24
+UBR1,SFARI1,Q8IWV7,E3 ubiquitin-protein ligase UBR1,Transferase,5.0,CHEMBL6066245,0.0,,,,0.0,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+UPF3B,SFARI1;denovoLoF_p<1e-3,Q9BZI7,Regulator of nonsense transcripts 3B,Transport,3.0,,,,,,,1.0,1.0,2.0,0.0007828328106254,0.0,1.0,,,False,True,2026-10-24
+USP9X,SFARI1,Q93008,Ubiquitin carboxyl-terminal hydrolase 9X,Hydrolase;Protease,4.0,CHEMBL2406899,0.0,,,,323.0,1.0,1.0,0.0,1.0,1.0,0.5909561978940131,,,True,False,2026-10-24
+VEZF1,SFARI1,Q14119,Vascular endothelial zinc finger 1,Transcription regulation,0.0,,,,,,,1.0,0.0,0.0,1.0,1.0,0.1659806333474725,,,False,False,2026-10-24
+VPS13B,SFARI1,Q7Z7G8,Intermembrane lipid transfer protein VPS13B,Transport,0.0,,,,,,,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+WAC,SFARI1;denovoLoF_p<1e-3,Q9BTA9,WW domain-containing adapter protein with coiled-coil,Chromatin regulator;Transcription regulation,0.0,,,,,,,1.0,1.0,3.0,0.0003340197470509,0.0,1.0,,,False,True,2026-10-24
+WDFY3,SFARI1;denovoLoF_p<1e-3,Q8IZQ1,WD repeat and FYVE domain-containing protein 3,,2.0,,,,,,,1.0,0.0,6.0,1.803585682791453e-07,5.0,0.0084523158427431,,,False,True,2026-10-24
+YY1,SFARI1,P25490,Transcriptional repressor protein YY1,Transcription regulation;Ubl conjugation,3.0,,,,,,,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+ZBTB20,SFARI1,Q9HC78,Zinc finger and BTB domain-containing protein 20,Transcription regulation;Ubl conjugation,2.0,,,,,,,1.0,1.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+ZBTB21,SFARI1,Q9ULJ3,Zinc finger and BTB domain-containing protein 21,Transcription regulation;Ubl conjugation,1.0,CHEMBL5069368,0.0,,,,0.0,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24
+ZMYND8,SFARI1,Q9ULU4,MYND-type zinc finger-containing chromatin reader ZMYND8,Chromatin regulator;Transcription regulation;Ubl conjugation,8.0,CHEMBL3627580,0.0,,,,4.0,1.0,1.0,0.0,1.0,2.0,0.0651842517449931,,,False,False,2026-10-24
+ZNF292,SFARI1,O60281,Zinc finger protein 292,Transcription regulation,2.0,,,,,,,1.0,1.0,1.0,0.1644447100844951,1.0,0.6121477903329189,,,False,True,2026-10-24
+ZNF462,SFARI1,Q96JM2,Zinc finger protein 462,Transcription regulation;Ubl conjugation,1.0,,,,,,,1.0,1.0,1.0,0.1524002388739207,2.0,0.2171731372245574,,,False,False,2026-10-24
+ZNF865,SFARI1,P0CJ78,Zinc finger protein 865,Transcription regulation;Ubl conjugation,0.0,,,,,,,1.0,0.0,0.0,1.0,0.0,1.0,,,False,True,2026-10-24

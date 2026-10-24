@@ -1,0 +1,26 @@
+"molecule","gene","action","mechanism","drug_name","drug_max_phase","indications","brain_indication"
+"CHEMBL608","ABCA1","INHIBITOR","ATP-binding cassette sub-family A member 1 inhibitor","PROBUCOL","4.0","Diabetic Nephropathies; Cardiovascular Diseases; Peripheral Arterial Disease; Hyperlipidemias",FALSE
+"CHEMBL2109171","ACVR2A","AGONIST","Activin receptor type-2A agonist","DIBOTERMIN ALFA","4.0","Bone Diseases; Fractures, Bone; Radius Fractures; Malocclusion; Osteoarthritis; Tibial Fractures; Fracture Fixation, Internal; Spinal Fusion",FALSE
+"CHEMBL3989869","CSNK1E","INHIBITOR","Casein kinase I epsilon inhibitor","UMBRALISIB TOSYLATE","4.0","Leukemia, Lymphocytic, Chronic, B-Cell; Lymphoma, Large B-Cell, Diffuse; Hodgkin Disease; Lymphoma, T-Cell, Peripheral; Polycythemia Vera; Pancreatic Neoplasms; Rectal Neoplasms; Lymphoma, Mantle-Cell; Stomach Neoplasms; Esophageal Neoplasms; Lymphoma, Follicular; Primary Myelofibrosis",FALSE
+"CHEMBL4594485","CXCL12","INHIBITOR","Stromal cell-derived factor 1 inhibitor","OLAPTESED PEGOL","2.0","Glioblastoma; Pancreatic Neoplasms",FALSE
+"CHEMBL4297841","F3","BINDING AGENT","Coagulation factor III binding agent","TISOTUMAB VEDOTIN","4.0","Neoplasms; Peritoneal Neoplasms; Fallopian Tube Neoplasms; Uterine Cervical Neoplasms; Ovarian Neoplasms",FALSE
+"CHEMBL3109738","FYN","INHIBITOR","Tyrosine-protein kinase FYN inhibitor","JNJ-26483327","1.0","Neoplasms",FALSE
+"CHEMBL1743028","GPNMB","BINDING AGENT","Transmembrane glycoprotein NMB binding agent","GLEMBATUMUMAB VEDOTIN","2.0","Osteosarcoma; Carcinoma, Squamous Cell; Melanoma; Breast Neoplasms; Uveal Melanoma",FALSE
+"CHEMBL2108707","GPNMB","BINDING AGENT","Transmembrane glycoprotein NMB binding agent","GLEMBATUMUMAB","2.0","Melanoma; Breast Neoplasms",FALSE
+"CHEMBL288441","LYN","INHIBITOR","Tyrosine-protein kinase Lyn inhibitor","BOSUTINIB","4.0","Glioblastoma; Neoplasms; Leukemia, Myelogenous, Chronic, BCR-ABL Positive; Leukemia; Breast Neoplasms; Pancreatic Neoplasms; Polycystic Kidney, Autosomal Dominant; Dementia; Mesothelioma; Carcinoma, Non-Small-Cell Lung; Thymoma; Blast Crisis",TRUE
+"CHEMBL206834","LYN","INHIBITOR","Tyrosine-protein kinase Lyn inhibitor","BAFETINIB","2.0","Leukemia, Lymphocytic, Chronic, B-Cell; Prostatic Neoplasms, Castration-Resistant",FALSE
+"CHEMBL8030","LYN","POSITIVE ALLOSTERIC MODULATOR","Tyrosine-protein kinase Lyn positive allosteric modulator","TOLIMIDONE","2.0","Diabetes Mellitus, Type 2",FALSE
+"CHEMBL3109738","LYN","INHIBITOR","Tyrosine-protein kinase Lyn inhibitor","JNJ-26483327","1.0","Neoplasms",FALSE
+"CHEMBL3984441","MERTK","INHIBITOR","Proto-oncogene tyrosine-protein kinase MER inhibitor","NINGETINIB","2.0","Carcinoma, Non-Small-Cell Lung",FALSE
+"CHEMBL1743037","NCAM1","BINDING AGENT","Neural cell adhesion molecule 1 binding agent","LORVOTUZUMAB MERTANSINE","2.0","Leukemia; Small Cell Lung Carcinoma; Neuroblastoma; Neurilemmoma; Sarcoma, Synovial; Multiple Myeloma; Rhabdomyosarcoma; Wilms Tumor",TRUE
+"CHEMBL2109634","NCAM1","BINDING AGENT","Neural cell adhesion molecule 1 binding agent","ONCOLYSIN S","2.0","",FALSE
+"CHEMBL1812161","NQO1","MODULATOR","Quinone reductase 1 modulator","VATIQUINONE","3.0","Tourette Syndrome; Child Development Disorders, Pervasive; Hearing Loss, Noise-Induced; Muscular Diseases; Parkinson Disease; Leigh Disease; Rett Syndrome; Mitochondrial Diseases; Friedreich Ataxia",TRUE
+"CHEMBL1200485","RAF1","INHIBITOR","Serine/threonine-protein kinase RAF inhibitor","SORAFENIB TOSYLATE","4.0","Carcinoma, Hepatocellular; Neoplasms; Small Cell Lung Carcinoma; Pancreatic Neoplasms; Carcinoma, Non-Small-Cell Lung; Multiple Myeloma; Melanoma; Carcinoma, Renal Cell; Mesothelioma; Prostatic Neoplasms; Breast Neoplasms, Male; Leukemia, Lymphocytic, Chronic, B-Cell",FALSE
+"CHEMBL1946170","RAF1","INHIBITOR","Serine/threonine-protein kinase RAF inhibitor","REGORAFENIB","4.0","Colorectal Neoplasms; Carcinoma, Adenoid Cystic; Bile Duct Neoplasms; Pancreatic Neoplasms; Sarcoma; Carcinoma, Hepatocellular; Cholangiocarcinoma; Neoplasms; Ovarian Neoplasms; Melanoma; Rectal Neoplasms; Glioblastoma",FALSE
+"CHEMBL3545027","RAF1","INHIBITOR","Serine/threonine-protein kinase RAF inhibitor","XL-281","2.0","Thyroid Neoplasms; Melanoma; Carcinoma, Non-Small-Cell Lung; Neoplasms; Colorectal Neoplasms",FALSE
+"CHEMBL3545082","RAF1","INHIBITOR","Serine/threonine-protein kinase RAF inhibitor","RG-7376","1.0","",FALSE
+"CHEMBL3545263","RAF1","INHIBITOR","Serine/threonine-protein kinase RAF inhibitor","LGX-806","1.0","",FALSE
+"CHEMBL3577124","RAF1","INHIBITOR","Serine/threonine-protein kinase RAF inhibitor","LY-3009120","1.0","Melanoma; Carcinoma, Non-Small-Cell Lung; Colorectal Neoplasms; Neoplasm Metastasis",FALSE
+"CHEMBL5314407","RAF1","INHIBITOR","Serine/threonine-protein kinase RAF inhibitor","ARQ-736","1.0","Neoplasms",FALSE
+"CHEMBL2109590","TNFRSF1A","INHIBITOR","Tumor necrosis factor receptor R1 inhibitor","GSK-1995057","1.0","Respiratory Tract Diseases",FALSE
+"CHEMBL3545185","XPO1","INHIBITOR","Exportin-1 inhibitor","SELINEXOR","4.0","Melanoma; Liposarcoma; Myelodysplastic Syndromes; Glioblastoma; Diabetic Foot; Neoplasms; Carcinoma, Squamous Cell; Lymphoma, Large B-Cell, Diffuse; Leukemia, Myeloid, Acute; Small Cell Lung Carcinoma; Lymphoma, Follicular; Lymphoma, T-Cell, Peripheral",FALSE

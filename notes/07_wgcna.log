@@ -1,0 +1,183 @@
+Allowing parallel execution with up to 4 working processes.
+Number of significant surrogate variables is:  5 
+Iteration (out of 5 ):1  2  3  4  5  expression matrix after adjustment: 8695 genes x 58 samples
+goodSamplesGenes all OK: TRUE 
+null device 
+          1 
+   Power SFT.R.sq  slope truncated.R.sq mean.k. median.k. max.k.
+1      1 0.000145  -0.79          0.912 3010.00  3010.000 3110.0
+2      2 0.222000 -12.10          0.819 1590.00  1580.000 1790.0
+3      3 0.482000  -9.61          0.869  881.00   866.000 1140.0
+4      4 0.549000  -6.40          0.896  509.00   495.000  770.0
+5      5 0.619000  -5.03          0.924  304.00   292.000  545.0
+6      6 0.686000  -4.19          0.947  188.00   177.000  399.0
+7      7 0.740000  -3.71          0.962  120.00   110.000  299.0
+8      8 0.777000  -3.41          0.972   78.20    70.400  229.0
+9      9 0.813000  -3.18          0.982   52.30    45.700  178.0
+10    10 0.839000  -2.99          0.988   35.70    30.200  141.0
+11    12 0.863000  -2.78          0.993   17.70    13.800   90.4
+12    14 0.878000  -2.62          0.994    9.34     6.660   60.1
+13    16 0.878000  -2.50          0.990    5.23     3.370   41.0
+14    18 0.882000  -2.33          0.990    3.08     1.780   28.6
+15    20 0.884000  -2.17          0.980    1.89     0.966   20.3
+ Power    signed_R2     mean.k.
+     1 0.0001445417 3006.031269
+     2 0.2217950418 1589.825412
+     3 0.4820144562  881.053852
+     4 0.5493737393  508.649794
+     5 0.6189789865  304.458080
+     6 0.6860855545  188.196363
+     7 0.7396257940  119.736918
+     8 0.7769868899   78.190420
+     9 0.8129962449   52.280271
+    10 0.8386096855   35.716890
+    12 0.8629014478   17.657952
+    14 0.8777893849    9.335324
+    16 0.8779405957    5.228315
+    18 0.8824149838    3.078880
+    20 0.8835518051    1.894928
+chosen soft power: 9  
+null device 
+          1 
+
+modules found: 21 | genes in grey (unassigned): 808 of 6000 
+colors
+       black         blue        brown         cyan      darkred        green 
+         282          343          316          146           51          306 
+ greenyellow         grey       grey60    lightcyan   lightgreen  lightyellow 
+         190          808           98           99           75           60 
+     magenta midnightblue         pink       purple          red    royalblue 
+         201          112          274          198          287           53 
+      salmon          tan    turquoise       yellow 
+         155          181         1457          308 
+null device 
+          1 
+
+Module eigengene vs diagnosis (positive diff_ME = higher in autism):
+       module n_genes      diff_ME          t            P          FDR
+    turquoise    1457 -0.204451891 -5.6754813 1.607531e-07 3.375816e-06
+        green     306  0.184745762  5.1008989 1.816273e-06 1.907087e-05
+        black     282  0.154496906  4.2293308 5.545447e-05 3.881813e-04
+       yellow     308 -0.143494377 -3.9496736 1.535498e-04 8.061367e-04
+         pink     274  0.151782341  3.6701601 4.070246e-04 1.709503e-03
+        brown     316  0.135705219  3.5532061 6.038355e-04 2.113424e-03
+    lightcyan      99 -0.128771265 -3.1142803 2.461252e-03 7.383756e-03
+      magenta     201  0.123269521  3.0239932 3.236083e-03 8.494718e-03
+  greenyellow     190  0.116233514  2.7099800 8.032250e-03 1.874192e-02
+          red     287  0.118859840  2.6008811 1.084112e-02 2.276636e-02
+   lightgreen      75 -0.077500428 -1.7192207 8.895137e-02 1.698163e-01
+       salmon     155  0.074105674  1.6141474 1.099347e-01 1.923858e-01
+         cyan     146 -0.070735453 -1.5695933 1.199574e-01 1.937773e-01
+       grey60      98  0.063754273  1.4539311 1.493828e-01 2.240742e-01
+ midnightblue     112 -0.048092976 -1.0818861 2.821427e-01 3.949998e-01
+          tan     181 -0.032543853 -0.7752290 4.402008e-01 5.777636e-01
+  lightyellow      60  0.027769858  0.5625277 5.751305e-01 6.748217e-01
+    royalblue      53  0.023288517  0.5576867 5.784186e-01 6.748217e-01
+         blue     343  0.023162334  0.4899637 6.253309e-01 6.876557e-01
+      darkred      51  0.018963683  0.4484182 6.549102e-01 6.876557e-01
+       purple     198  0.007069687  0.1704961 8.649960e-01 8.649960e-01
+
+SFARI genes: all = 1289 | score 1-2 = 957 | score 1 = 245 
+SFARI genes present in the 6000-gene network: all = 458 | score 1-2 = 340 
+
+Modules enriched (permutation FDR<0.1) for SFARI or immune sets:
+    module n_genes          set observed expected  fold          P        FDR
+      blue     343    SFARI_1_2       31    19.37  1.60 0.00779844 0.09826035
+   magenta     201    IFN_alpha        6     1.33  4.50 0.00279944 0.04409118
+   magenta     201    IFN_gamma       15     2.55  5.88 0.00019996 0.00629874
+   magenta     201 Inflammatory       11     2.35  4.67 0.00039992 0.01007798
+    purple     198    SFARI_all       29    15.11  1.92 0.00079984 0.01679664
+    purple     198    SFARI_1_2       28    11.17  2.51 0.00019996 0.00629874
+    purple     198      SFARI_1       10     3.42  2.92 0.00279944 0.04409118
+ royalblue      53    IFN_alpha       21     0.35 59.52 0.00019996 0.00629874
+ royalblue      53    IFN_gamma       24     0.68 35.29 0.00019996 0.00629874
+ royalblue      53 Inflammatory        4     0.61  6.59 0.00399920 0.05598880
+Best raw p per set:
+   SFARI_all : module purple observed 29 vs expected 15.11 (p = 8e-04 , FDR = 0.0168 )
+   SFARI_1_2 : module purple observed 28 vs expected 11.17 (p = 2e-04 , FDR = 0.0063 )
+   SFARI_1 : module purple observed 10 vs expected 3.42 (p = 0.0028 , FDR = 0.0441 )
+   IFN_alpha : module royalblue observed 21 vs expected 0.35 (p = 2e-04 , FDR = 0.0063 )
+   IFN_gamma : module magenta observed 15 vs expected 2.55 (p = 2e-04 , FDR = 0.0063 )
+   Inflammatory : module magenta observed 11 vs expected 2.35 (p = 4e-04 , FDR = 0.0101 )
+
+=== Module replication in GSE102741 ===
+network genes also measured in GSE102741: 4158 of 6000 
+
+Discovery vs replication module-level diagnosis effect:
+       module n_genes      diff_ME            P          FDR diff_ME_102741
+    turquoise    1457 -0.204451891 1.607531e-07 3.375816e-06    0.001427648
+        green     306  0.184745762 1.816273e-06 1.907087e-05    0.014229098
+        black     282  0.154496906 5.545447e-05 3.881813e-04    0.009451713
+       yellow     308 -0.143494377 1.535498e-04 8.061367e-04    0.010892187
+         pink     274  0.151782341 4.070246e-04 1.709503e-03    0.009128353
+        brown     316  0.135705219 6.038355e-04 2.113424e-03    0.018076193
+    lightcyan      99 -0.128771265 2.461252e-03 7.383756e-03    0.003191726
+      magenta     201  0.123269521 3.236083e-03 8.494718e-03    0.020311544
+  greenyellow     190  0.116233514 8.032250e-03 1.874192e-02    0.018737696
+          red     287  0.118859840 1.084112e-02 2.276636e-02    0.024548474
+   lightgreen      75 -0.077500428 8.895137e-02 1.698163e-01    0.036286064
+       salmon     155  0.074105674 1.099347e-01 1.923858e-01    0.019526271
+         cyan     146 -0.070735453 1.199574e-01 1.937773e-01    0.004958929
+       grey60      98  0.063754273 1.493828e-01 2.240742e-01    0.031849126
+ midnightblue     112 -0.048092976 2.821427e-01 3.949998e-01    0.021087409
+          tan     181 -0.032543853 4.402008e-01 5.777636e-01    0.012598292
+  lightyellow      60  0.027769858 5.751305e-01 6.748217e-01    0.023508528
+    royalblue      53  0.023288517 5.784186e-01 6.748217e-01    0.018463758
+         blue     343  0.023162334 6.253309e-01 6.876557e-01    0.009832560
+      darkred      51  0.018963683 6.549102e-01 6.876557e-01    0.020486215
+       purple     198  0.007069687 8.649960e-01 8.649960e-01    0.004900363
+  P_102741 same_direction
+ 0.9748188          FALSE
+ 0.7530673           TRUE
+ 0.8344678           TRUE
+ 0.8096926          FALSE
+ 0.8400530           TRUE
+ 0.6894152           TRUE
+ 0.9437409          FALSE
+ 0.6533841           TRUE
+ 0.6786743           TRUE
+ 0.5873172           TRUE
+ 0.4224600          FALSE
+ 0.6659551           TRUE
+ 0.9126938          FALSE
+ 0.4813705           TRUE
+ 0.6410596          FALSE
+ 0.7805958          FALSE
+ 0.6032453           TRUE
+ 0.6831145           TRUE
+ 0.8279004           TRUE
+ 0.6506010           TRUE
+ 0.9137208           TRUE
+module-level effect correlation across modules (GSE28521 t vs GSE102741 t): r = 0.28 
+
+Module preservation Zsummary (>10 strong, 2-10 weak/moderate, <2 none):
+       module size Zsummary       verdict
+    turquoise  400      9.1 weak/moderate
+         cyan  103      5.3 weak/moderate
+       salmon  120      5.0 weak/moderate
+       yellow  214      4.5 weak/moderate
+         pink  191      3.5 weak/moderate
+    lightcyan   72      2.3 weak/moderate
+         blue  206      2.2 weak/moderate
+        black  214      2.1 weak/moderate
+       grey60   72      2.0 not preserved
+    royalblue   38      2.0 not preserved
+          red  161      1.9 not preserved
+       purple  147      1.1 not preserved
+        brown  229      0.9 not preserved
+   lightgreen   44      0.8 not preserved
+      darkred   32      0.7 not preserved
+         grey  400      0.4 not preserved
+  lightyellow   39      0.2 not preserved
+          tan  107      0.2 not preserved
+ midnightblue   75     -0.2 not preserved
+  greenyellow  134     -0.4 not preserved
+        green  219     -0.9 not preserved
+      magenta  133     -1.2 not preserved
+null device 
+          1 
+
+=========== PLAIN-ENGLISH SUMMARY ===========
+Modules: 21 | modules with FDR<0.05 for diagnosis: 10 
+Look for modules that (1) differ by diagnosis, (2) point the same way in GSE102741, (3) have Zsummary>2,
+and (4) are enriched for SFARI or interferon genes. Only modules passing (1)-(3) count as replicated.

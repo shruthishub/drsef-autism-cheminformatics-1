@@ -1,0 +1,43 @@
+layer,dataset,region,gene,n_asd_v_ctl,effect(log2 diff or mean dBeta),min_or_only_p,MWU_p_or_min_FDR,notes
+expression,GSE269105,cerebellum,DDR1,7 v 5,-0.078,0.8282,1.0,t=-0.23; rank of t among 14050 expressed genes: 7544 (top 54% = up)
+expression,GSE269105,cerebellum,MKNK2,7 v 5,0.209,0.6699,0.7551,t=0.44; rank of t among 14050 expressed genes: 2935 (top 21% = up)
+expression,GSE38322,cerebellum,DDR1,14 v 12,0.276,0.0004,0.0009,t=4.22; 3 probe(s); rank of probe-t among 47323: 4780
+expression,GSE38322,cerebellum,MKNK2,14 v 12,0.426,0.0014,0.0043,t=3.62; 2 probe(s); rank of probe-t among 47323: 1193
+expression,GSE38322,occipital,DDR1,4 v 6,0.23,0.2959,0.4762,t=1.23; 3 probe(s); rank of probe-t among 47323: 10620
+expression,GSE38322,occipital,MKNK2,4 v 6,0.359,0.2638,0.3524,t=1.36; 2 probe(s); rank of probe-t among 47323: 5607
+methylation_split,GSE53162,PFC/frontal,DDR1,6 v 5,-0.007,4.03e-04,12/58 probes p<0.05,promoter
+methylation_split,GSE53162,PFC/frontal,DDR1,6 v 5,0.0018,3.68e-02,1/31 probes p<0.05,body/other
+methylation,GSE53162,PFC/frontal,DDR1,6 v 5,-0.0039,0.0004,0.036,89 probes; promoter probes 58; mean promoter dBeta -0.0070; probes with raw p<0.05: 13; max |dBeta| 0.076
+methylation_split,GSE53162,PFC/frontal,MKNK2,6 v 5,0.0137,8.62e-02,0/9 probes p<0.05,promoter
+methylation_split,GSE53162,PFC/frontal,MKNK2,6 v 5,0.0026,4.16e-02,1/21 probes p<0.05,body/other
+methylation,GSE53162,PFC/frontal,MKNK2,6 v 5,0.0059,0.0416,0.777,30 probes; promoter probes 9; mean promoter dBeta 0.0137; probes with raw p<0.05: 1; max |dBeta| 0.044
+methylation_split,GSE53162,cerebellum,DDR1,7 v 6,0.0075,3.79e-02,3/58 probes p<0.05,promoter
+methylation_split,GSE53162,cerebellum,DDR1,7 v 6,0.0117,4.09e-02,1/31 probes p<0.05,body/other
+methylation,GSE53162,cerebellum,DDR1,7 v 6,0.0089,0.0379,0.817,89 probes; promoter probes 58; mean promoter dBeta 0.0075; probes with raw p<0.05: 4; max |dBeta| 0.079
+methylation_split,GSE53162,cerebellum,MKNK2,7 v 6,-0.0118,2.66e-02,1/9 probes p<0.05,promoter
+methylation_split,GSE53162,cerebellum,MKNK2,7 v 6,0.0034,6.23e-02,0/21 probes p<0.05,body/other
+methylation,GSE53162,cerebellum,MKNK2,7 v 6,-0.0012,0.0266,0.727,30 probes; promoter probes 9; mean promoter dBeta -0.0118; probes with raw p<0.05: 1; max |dBeta| 0.097
+methylation_split,GSE53162,temporal,DDR1,6 v 10,-0.0031,2.84e-03,6/58 probes p<0.05,promoter
+methylation_split,GSE53162,temporal,DDR1,6 v 10,0.0064,7.98e-03,1/31 probes p<0.05,body/other
+methylation,GSE53162,temporal,DDR1,6 v 10,0.0002,0.0028,0.178,89 probes; promoter probes 58; mean promoter dBeta -0.0031; probes with raw p<0.05: 7; max |dBeta| 0.224
+methylation_split,GSE53162,temporal,MKNK2,6 v 10,0.0068,7.48e-02,0/9 probes p<0.05,promoter
+methylation_split,GSE53162,temporal,MKNK2,6 v 10,0.0046,4.43e-03,1/21 probes p<0.05,body/other
+methylation,GSE53162,temporal,MKNK2,6 v 10,0.0053,0.0044,0.133,30 probes; promoter probes 9; mean promoter dBeta 0.0068; probes with raw p<0.05: 1; max |dBeta| 0.050
+methylation_split,GSE53924,PFC/frontal,DDR1,12 v 12,0.0231,3.75e-03,18/58 probes p<0.05,promoter
+methylation_split,GSE53924,PFC/frontal,DDR1,12 v 12,0.0532,4.36e-03,15/31 probes p<0.05,body/other
+methylation,GSE53924,PFC/frontal,DDR1,12 v 12,0.0336,0.0037,0.118,89 probes; promoter probes 58; mean promoter dBeta 0.0231; probes with raw p<0.05: 33; max |dBeta| 0.103
+methylation_split,GSE53924,PFC/frontal,MKNK2,12 v 12,0.0074,2.37e-03,5/9 probes p<0.05,promoter
+methylation_split,GSE53924,PFC/frontal,MKNK2,12 v 12,0.041,4.54e-03,11/21 probes p<0.05,body/other
+methylation,GSE53924,PFC/frontal,MKNK2,12 v 12,0.0309,0.0024,0.06,30 probes; promoter probes 9; mean promoter dBeta 0.0074; probes with raw p<0.05: 16; max |dBeta| 0.085
+methylation_split,GSE53924,cingulate,DDR1,10 v 11,-0.0253,4.98e-04,18/58 probes p<0.05,promoter
+methylation_split,GSE53924,cingulate,DDR1,10 v 11,-0.0383,2.66e-02,4/31 probes p<0.05,body/other
+methylation,GSE53924,cingulate,DDR1,10 v 11,-0.0299,0.0005,0.023,89 probes; promoter probes 58; mean promoter dBeta -0.0253; probes with raw p<0.05: 22; max |dBeta| 0.105
+methylation_split,GSE53924,cingulate,MKNK2,10 v 11,-0.0223,2.02e-03,4/9 probes p<0.05,promoter
+methylation_split,GSE53924,cingulate,MKNK2,10 v 11,-0.0277,8.93e-03,5/21 probes p<0.05,body/other
+methylation,GSE53924,cingulate,MKNK2,10 v 11,-0.0261,0.002,0.061,30 probes; promoter probes 9; mean promoter dBeta -0.0223; probes with raw p<0.05: 9; max |dBeta| 0.084
+methylation_split,GSE278285,cerebellum,DDR1,30 v 45,0.0129,2.54e-07,33/58 probes p<0.05,promoter
+methylation_split,GSE278285,cerebellum,DDR1,30 v 45,-0.0056,4.63e-04,6/31 probes p<0.05,body/other
+methylation,GSE278285,cerebellum,DDR1,30 v 45,0.0065,0.0,0.0,89 probes; promoter probes 58; mean promoter dBeta 0.0129; probes with raw p<0.05: 39; max |dBeta| 0.047
+methylation_split,GSE278285,cerebellum,MKNK2,30 v 45,0.0088,5.85e-08,6/9 probes p<0.05,promoter
+methylation_split,GSE278285,cerebellum,MKNK2,30 v 45,-0.0018,3.09e-04,1/21 probes p<0.05,body/other
+methylation,GSE278285,cerebellum,MKNK2,30 v 45,0.0014,0.0,0.0,30 probes; promoter probes 9; mean promoter dBeta 0.0088; probes with raw p<0.05: 7; max |dBeta| 0.023

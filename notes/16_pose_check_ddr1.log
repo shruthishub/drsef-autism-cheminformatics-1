@@ -1,0 +1,88 @@
+Crystal ligand H-bond partners on the protein BACKBONE (taken as hinge): [('ASP', 784, 'N'), ('HIS', 764, 'O'), ('MET', 704, 'N'), ('VAL', 763, 'O')]
+
+(a) ChEMBL measured activity records (None = query failed):
+        drug target  n_records                                           examples
+   DASATINIB   DDR1          8             Kd =0.69 nM; Kd =0.69 nM; IC50 =4.8 nM
+    IMATINIB   DDR1         11        IC50 =31000.0 nM; Kd =0.7 nM; IC50 =43.0 nM
+ risperidone   DDR1          0                                                   
+aripiprazole   DDR1          0                                                   
+ ziprasidone   DDR1          0                                                   
+  lurasidone   DDR1          0                                                   
+paliperidone   DDR1          0                                                   
+   buspirone   DDR1          0                                                   
+   ponatinib   DDR1          3 Kd =18.0 nM; Delta Tm =5.6 degrees C; IC50 =9.4 nM
+  PRANLUKAST   DDR1          0                                                   
+  NETARSUDIL   DDR1          0                                                   
+Crystal ligand H-bond partners on the protein BACKBONE (taken as hinge): [('ASP', 784, 'N'), ('HIS', 764, 'O'), ('MET', 704, 'N'), ('VAL', 763, 'O')]
+
+(a) ChEMBL measured activity records (None = query failed):
+        drug target  n_records                                           examples
+   DASATINIB   DDR1          8             Kd =0.69 nM; Kd =0.69 nM; IC50 =4.8 nM
+    IMATINIB   DDR1         11        IC50 =31000.0 nM; Kd =0.7 nM; IC50 =43.0 nM
+ risperidone   DDR1          0                                                   
+aripiprazole   DDR1          0                                                   
+ ziprasidone   DDR1          0                                                   
+  lurasidone   DDR1          0                                                   
+paliperidone   DDR1          0                                                   
+   buspirone   DDR1          0                                                   
+   ponatinib   DDR1          3 Kd =18.0 nM; Delta Tm =5.6 degrees C; IC50 =9.4 nM
+  PRANLUKAST   DDR1          0                                                   
+  NETARSUDIL   DDR1          0                                                   
+Crystal ligand H-bond partners on the protein BACKBONE (taken as hinge): [('ASP', 784, 'N'), ('HIS', 764, 'O'), ('MET', 704, 'N'), ('VAL', 763, 'O')]
+
+(a) ChEMBL measured activity records (None = query failed):
+        drug target  n_records                                           examples
+   DASATINIB   DDR1          8             Kd =0.69 nM; Kd =0.69 nM; IC50 =4.8 nM
+    IMATINIB   DDR1         11        IC50 =31000.0 nM; Kd =0.7 nM; IC50 =43.0 nM
+ risperidone   DDR1          0                                                   
+aripiprazole   DDR1          0                                                   
+ ziprasidone   DDR1          0                                                   
+  lurasidone   DDR1          0                                                   
+paliperidone   DDR1          0                                                   
+   buspirone   DDR1          0                                                   
+   ponatinib   DDR1          3 Kd =18.0 nM; Delta Tm =5.6 degrees C; IC50 =9.4 nM
+  PRANLUKAST   DDR1          0                                                   
+  NETARSUDIL   DDR1          0                                                   
+Crystal ligand H-bond partners on the protein BACKBONE (taken as hinge): [('ASP', 784, 'N'), ('HIS', 764, 'O'), ('MET', 704, 'N'), ('VAL', 763, 'O')]
+
+(a) ChEMBL measured activity records (None = query failed):
+        drug target  n_records                                           examples
+   DASATINIB   DDR1          8             Kd =0.69 nM; Kd =0.69 nM; IC50 =4.8 nM
+    IMATINIB   DDR1         11        IC50 =31000.0 nM; Kd =0.7 nM; IC50 =43.0 nM
+ risperidone   DDR1          0                                                   
+aripiprazole   DDR1          0                                                   
+ ziprasidone   DDR1          0                                                   
+  lurasidone   DDR1          0                                                   
+paliperidone   DDR1          0                                                   
+   buspirone   DDR1          0                                                   
+   ponatinib   DDR1          3 Kd =18.0 nM; Delta Tm =5.6 degrees C; IC50 =9.4 nM
+  PRANLUKAST   DDR1          0                                                   
+  NETARSUDIL   DDR1          0                                                   
+Crystal ligand H-bond partners on the protein BACKBONE (taken as hinge): [('ASP', 784, 'N'), ('HIS', 764, 'O'), ('MET', 704, 'N'), ('VAL', 763, 'O')]
+
+(a) ChEMBL measured activity records (None = query failed):
+        drug target  n_records                                           examples
+   DASATINIB   DDR1          8             Kd =0.69 nM; Kd =0.69 nM; IC50 =4.8 nM
+    IMATINIB   DDR1         11        IC50 =31000.0 nM; Kd =0.7 nM; IC50 =43.0 nM
+ risperidone   DDR1          0                                                   
+aripiprazole   DDR1          0                                                   
+ ziprasidone   DDR1          0                                                   
+  lurasidone   DDR1          0                                                   
+paliperidone   DDR1          0                                                   
+   buspirone   DDR1          0                                                   
+   ponatinib   DDR1          3 Kd =18.0 nM; Delta Tm =5.6 degrees C; IC50 =9.4 nM
+  PRANLUKAST   DDR1          0                                                   
+  NETARSUDIL   DDR1          0                                                   
+
+(b) For each drug: top-scored pose, and the best-scoring pose that makes >=1 hinge H-bond inside the ATP site (centroid <5 A of crystal ligand):
+  aripiprazole   top pose -10.78 (hinge H-bonds: 1, 0.3 A from site) | best hinge pose: rank 1 score -10.78 [ASP784:N]
+  risperidone    top pose -10.69 (hinge H-bonds: 0, 7.4 A from site) | NO pose with a hinge H-bond in the ATP site
+  lurasidone     top pose -10.27 (hinge H-bonds: 0, 7.0 A from site) | NO pose with a hinge H-bond in the ATP site
+  paliperidone   top pose  -9.59 (hinge H-bonds: 0, 8.0 A from site) | NO pose with a hinge H-bond in the ATP site
+  ziprasidone    top pose -10.36 (hinge H-bonds: 0, 6.0 A from site) | NO pose with a hinge H-bond in the ATP site
+  buspirone      top pose  -9.57 (hinge H-bonds: 0, 1.1 A from site) | best hinge pose: rank 3 score -8.96 [ASP784:N]
+  ponatinib      top pose -13.76 (hinge H-bonds: 1, 1.1 A from site) | best hinge pose: rank 1 score -13.76 [ASP784:N]
+  imatinib       top pose -11.18 (hinge H-bonds: 0, 3.4 A from site) | best hinge pose: rank 3 score -11.06 [ASP784:N]
+  dasatinib      top pose  -9.36 (hinge H-bonds: 0, 7.3 A from site) | NO pose with a hinge H-bond in the ATP site
+  PRANLUKAST     top pose -12.38 (hinge H-bonds: 1, 1.4 A from site) | best hinge pose: rank 1 score -12.38 [ASP784:N]
+  NETARSUDIL     top pose -11.99 (hinge H-bonds: 1, 1.1 A from site) | best hinge pose: rank 1 score -11.99 [ASP784:N]

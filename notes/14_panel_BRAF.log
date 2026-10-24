@@ -1,0 +1,15 @@
+group 1 actives: 50 (from 787 potent compounds)
+  not found in ChEMBL by exact name: epigallocatechin gallate
+  not found in ChEMBL by exact name: leucettine l41
+group
+1_MNK_inhibitor            50
+2_brain_drug               24
+3_kinase_or_target_drug    20
+phase-4 small molecules fetched: 3475
+panel written: docking/panel_BRAF.csv 294 ligands | queried 2026-10-24
+                            MW  logP  HBD  HBA  RotB  heavy
+group                                                      
+1_MNK_inhibitor          440.3   4.1  1.8  5.9   4.9   31.6
+2_brain_drug             305.5   3.0  0.9  3.5   3.2   21.5
+3_kinase_or_target_drug  483.9   5.0  1.8  5.8   5.6   34.4
+decoy                    441.5   3.6  1.7  5.7   5.1   31.1

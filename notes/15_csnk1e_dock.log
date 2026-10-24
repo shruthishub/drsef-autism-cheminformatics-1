@@ -1,0 +1,89 @@
+resuming: 0 done, 294 to go
+  10/294 ligands docked
+  20/294 ligands docked
+  30/294 ligands docked
+  40/294 ligands docked
+  50/294 ligands docked
+  60/294 ligands docked
+  70/294 ligands docked
+  80/294 ligands docked
+  90/294 ligands docked
+  100/294 ligands docked
+  110/294 ligands docked
+  120/294 ligands docked
+  130/294 ligands docked
+  140/294 ligands docked
+  150/294 ligands docked
+  160/294 ligands docked
+  170/294 ligands docked
+  180/294 ligands docked
+  190/294 ligands docked
+  200/294 ligands docked
+  210/294 ligands docked
+  220/294 ligands docked
+  230/294 ligands docked
+  240/294 ligands docked
+  250/294 ligands docked
+  260/294 ligands docked
+  270/294 ligands docked
+  280/294 ligands docked
+  290/294 ligands docked
+docked: 293 of 294 | failures: {'embed_failed': 1}
+    raw Vina score: AUC = 0.96 | actives mean -10.21 | decoys mean -8.30 | MWU p = 4.9e-24
+ ligand efficiency: AUC = 0.54 | actives mean -0.25 | decoys mean -0.24 | MWU p = 4.0e-01
+top 10% by score (29 ligands): 25 actives, 2 decoys
+
+Group means (score / LE):
+                         score    LE
+group                               
+1_MNK_inhibitor         -10.21 -0.25
+2_brain_drug             -7.46 -0.38
+3_kinase_or_target_drug  -8.91 -0.27
+decoy                    -8.30 -0.24
+
+Brain drugs + kinase/target drugs, ranked by score:
+                  group                name  heavy  score    LE
+3_kinase_or_target_drug           ponatinib     39 -10.83 -0.28
+3_kinase_or_target_drug        tinodasertib     31 -10.32 -0.33
+3_kinase_or_target_drug           nilotinib     39 -10.31 -0.26
+3_kinase_or_target_drug            imatinib     37 -10.27 -0.28
+3_kinase_or_target_drug UMBRALISIB TOSYLATE     42  -9.91 -0.24
+3_kinase_or_target_drug           BAFETINIB     42  -9.46 -0.23
+3_kinase_or_target_drug       staurosporine     35  -9.42 -0.27
+3_kinase_or_target_drug             ARQ-736     43  -9.37 -0.22
+           2_brain_drug        paliperidone     31  -9.36 -0.30
+           2_brain_drug          lurasidone     35  -9.29 -0.27
+3_kinase_or_target_drug              XL-281     33  -9.29 -0.28
+           2_brain_drug         risperidone     30  -9.19 -0.31
+3_kinase_or_target_drug          NINGETINIB     41  -9.17 -0.22
+3_kinase_or_target_drug  SORAFENIB TOSYLATE     32  -9.17 -0.29
+3_kinase_or_target_drug         REGORAFENIB     33  -9.16 -0.28
+3_kinase_or_target_drug           SELINEXOR     31  -9.09 -0.29
+           2_brain_drug           donepezil     28  -9.00 -0.32
+           2_brain_drug        aripiprazole     30  -8.94 -0.30
+           2_brain_drug         ziprasidone     28  -8.86 -0.32
+           2_brain_drug          sertraline     20  -8.77 -0.44
+           2_brain_drug         haloperidol     26  -8.51 -0.33
+           2_brain_drug           buspirone     28  -8.24 -0.29
+3_kinase_or_target_drug         VATIQUINONE     32  -8.21 -0.26
+           2_brain_drug       carbamazepine     18  -8.16 -0.45
+3_kinase_or_target_drug          LY-3009120     31  -8.11 -0.26
+           2_brain_drug          fluoxetine     22  -8.05 -0.37
+           2_brain_drug           clozapine     23  -8.01 -0.35
+3_kinase_or_target_drug           BOSUTINIB     36  -7.95 -0.22
+3_kinase_or_target_drug           dasatinib     33  -7.81 -0.24
+           2_brain_drug          olanzapine     22  -7.73 -0.35
+3_kinase_or_target_drug            PROBUCOL     35  -7.54 -0.22
+           2_brain_drug         atomoxetine     19  -7.02 -0.37
+3_kinase_or_target_drug          TOLIMIDONE     15  -7.00 -0.47
+           2_brain_drug          quetiapine     27  -6.96 -0.26
+           2_brain_drug          guanfacine     15  -6.74 -0.45
+           2_brain_drug             harmine     16  -6.57 -0.41
+           2_brain_drug     methylphenidate     17  -6.44 -0.38
+           2_brain_drug         lamotrigine     16  -6.34 -0.40
+           2_brain_drug        rivastigmine     18  -6.25 -0.35
+3_kinase_or_target_drug        JNJ-26483327     29  -5.88 -0.20
+           2_brain_drug           memantine     13  -5.72 -0.44
+           2_brain_drug         galantamine     21  -5.69 -0.27
+           2_brain_drug       valproic acid     10  -5.56 -0.56
+           2_brain_drug   lithium carbonate      4  -3.60 -0.90

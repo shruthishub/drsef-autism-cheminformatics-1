@@ -1,0 +1,108 @@
+Crystal ligand H-bond partners on the protein BACKBONE (taken as hinge): [('MET', 162, 'N')]
+
+(a) ChEMBL measured activity records (None = query failed):
+         drug target  n_records                                         examples
+  risperidone   MNK2          0                                                 
+  risperidone   MNK1          0                                                 
+  ziprasidone   MNK2          0                                                 
+  ziprasidone   MNK1          0                                                 
+   lurasidone   MNK2          0                                                 
+   lurasidone   MNK1          0                                                 
+ paliperidone   MNK2          0                                                 
+ paliperidone   MNK1          0                                                 
+    donepezil   MNK2          0                                                 
+    donepezil   MNK1          0                                                 
+    buspirone   MNK2          0                                                 
+    buspirone   MNK1          0                                                 
+ tinodasertib   MNK2         10 Inhibition >65.0 %; IC50 =86.0 nM; IC50 =86.0 nM
+ tinodasertib   MNK1          8      IC50 =64.0 nM; IC50 =64.0 nM; IC50 =10.6 nM
+staurosporine   MNK2         13            Kd =22.0 nM; Kd =17.0 nM; Kd =17.0 nM
+staurosporine   MNK1          9     Kd =170.0 nM; Kd =170.0 nM; Activity <65.0 %
+    DELAMANID   MNK2          0                                                 
+    DELAMANID   MNK1          0                                                 
+  ELTROMBOPAG   MNK2          0                                                 
+  ELTROMBOPAG   MNK1          0                                                 
+Crystal ligand H-bond partners on the protein BACKBONE (taken as hinge): [('MET', 162, 'N')]
+
+(a) ChEMBL measured activity records (None = query failed):
+         drug target  n_records                                         examples
+  risperidone   MNK2          0                                                 
+  risperidone   MNK1          0                                                 
+  ziprasidone   MNK2          0                                                 
+  ziprasidone   MNK1          0                                                 
+   lurasidone   MNK2          0                                                 
+   lurasidone   MNK1          0                                                 
+ paliperidone   MNK2          0                                                 
+ paliperidone   MNK1          0                                                 
+    donepezil   MNK2          0                                                 
+    donepezil   MNK1          0                                                 
+    buspirone   MNK2          0                                                 
+    buspirone   MNK1          0                                                 
+ tinodasertib   MNK2         10 Inhibition >65.0 %; IC50 =86.0 nM; IC50 =86.0 nM
+ tinodasertib   MNK1          8      IC50 =64.0 nM; IC50 =64.0 nM; IC50 =10.6 nM
+staurosporine   MNK2         13            Kd =22.0 nM; Kd =17.0 nM; Kd =17.0 nM
+staurosporine   MNK1          9     Kd =170.0 nM; Kd =170.0 nM; Activity <65.0 %
+    DELAMANID   MNK2          0                                                 
+    DELAMANID   MNK1          0                                                 
+  ELTROMBOPAG   MNK2          0                                                 
+  ELTROMBOPAG   MNK1          0                                                 
+Crystal ligand H-bond partners on the protein BACKBONE (taken as hinge): [('MET', 162, 'N')]
+
+(a) ChEMBL measured activity records (None = query failed):
+         drug target  n_records                                         examples
+  risperidone   MNK2          0                                                 
+  risperidone   MNK1          0                                                 
+  ziprasidone   MNK2          0                                                 
+  ziprasidone   MNK1          0                                                 
+   lurasidone   MNK2          0                                                 
+   lurasidone   MNK1          0                                                 
+ paliperidone   MNK2          0                                                 
+ paliperidone   MNK1          0                                                 
+    donepezil   MNK2          0                                                 
+    donepezil   MNK1          0                                                 
+    buspirone   MNK2          0                                                 
+    buspirone   MNK1          0                                                 
+ tinodasertib   MNK2         10 Inhibition >65.0 %; IC50 =86.0 nM; IC50 =86.0 nM
+ tinodasertib   MNK1          8      IC50 =64.0 nM; IC50 =64.0 nM; IC50 =10.6 nM
+staurosporine   MNK2         13            Kd =22.0 nM; Kd =17.0 nM; Kd =17.0 nM
+staurosporine   MNK1          9     Kd =170.0 nM; Kd =170.0 nM; Activity <65.0 %
+    DELAMANID   MNK2          0                                                 
+    DELAMANID   MNK1          0                                                 
+  ELTROMBOPAG   MNK2          0                                                 
+  ELTROMBOPAG   MNK1          0                                                 
+Crystal ligand H-bond partners on the protein BACKBONE (taken as hinge): [('MET', 162, 'N')]
+
+(a) ChEMBL measured activity records (None = query failed):
+         drug target  n_records                                         examples
+  risperidone   MNK2          0                                                 
+  risperidone   MNK1          0                                                 
+  ziprasidone   MNK2          0                                                 
+  ziprasidone   MNK1          0                                                 
+   lurasidone   MNK2          0                                                 
+   lurasidone   MNK1          0                                                 
+ paliperidone   MNK2          0                                                 
+ paliperidone   MNK1          0                                                 
+    donepezil   MNK2          0                                                 
+    donepezil   MNK1          0                                                 
+    buspirone   MNK2          0                                                 
+    buspirone   MNK1          0                                                 
+ tinodasertib   MNK2         10 Inhibition >65.0 %; IC50 =86.0 nM; IC50 =86.0 nM
+ tinodasertib   MNK1          8      IC50 =64.0 nM; IC50 =64.0 nM; IC50 =10.6 nM
+staurosporine   MNK2         13            Kd =22.0 nM; Kd =17.0 nM; Kd =17.0 nM
+staurosporine   MNK1          9     Kd =170.0 nM; Kd =170.0 nM; Activity <65.0 %
+    DELAMANID   MNK2          0                                                 
+    DELAMANID   MNK1          0                                                 
+  ELTROMBOPAG   MNK2          0                                                 
+  ELTROMBOPAG   MNK1          0                                                 
+
+(b) For each drug: top-scored pose, and the best-scoring pose that makes >=1 hinge H-bond inside the ATP site (centroid <5 A of crystal ligand):
+  lurasidone     top pose  -9.85 (hinge H-bonds: 0, 1.0 A from site) | NO pose with a hinge H-bond in the ATP site
+  risperidone    top pose  -9.44 (hinge H-bonds: 0, 2.9 A from site) | best hinge pose: rank 5 score -9.3 [MET162:N]
+  paliperidone   top pose  -9.18 (hinge H-bonds: 0, 3.0 A from site) | NO pose with a hinge H-bond in the ATP site
+  buspirone      top pose  -8.32 (hinge H-bonds: 0, 1.8 A from site) | best hinge pose: rank 5 score -7.42 [MET162:N]
+  ziprasidone    top pose  -9.07 (hinge H-bonds: 0, 0.9 A from site) | NO pose with a hinge H-bond in the ATP site
+  donepezil      top pose  -9.04 (hinge H-bonds: 0, 2.2 A from site) | best hinge pose: rank 2 score -8.38 [MET162:N]
+  tinodasertib   top pose -11.19 (hinge H-bonds: 1, 0.2 A from site) | best hinge pose: rank 1 score -11.19 [MET162:N]
+  staurosporine  top pose  -8.88 (hinge H-bonds: 0, 3.4 A from site) | NO pose with a hinge H-bond in the ATP site
+  ELTROMBOPAG    top pose -10.12 (hinge H-bonds: 0, 1.0 A from site) | NO pose with a hinge H-bond in the ATP site
+  DELAMANID      top pose  -9.12 (hinge H-bonds: 0, 2.9 A from site) | NO pose with a hinge H-bond in the ATP site

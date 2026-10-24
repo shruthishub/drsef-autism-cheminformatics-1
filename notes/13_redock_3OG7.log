@@ -1,0 +1,17 @@
+[RDKit] WARNING:[08:43:57] WARNING: More than one matching pattern found - picking one
+[RDKit] WARNING:
+ligand 032 SMILES: CCCS(=O)(=O)Nc1ccc(c(c1F)C(=O)c2c[nH]c3c2cc(cn3)c4ccc(cc4)Cl)F
+heavy atoms: 33 | pocket centre: [  1.87  -2.64 -19.92]
+
+pose  vina_kcal/mol  RMSD_to_crystal_A
+   1        -11.54        0.59
+   2        -10.93        6.12
+   3        -10.67        6.58
+   4        -10.65        8.34
+   5        -10.64        9.66
+   6        -10.51        8.80
+   7        -10.51        2.09
+   8        -10.47        8.93
+   9        -10.39        6.02
+
+Top-scored pose RMSD 0.59 A | best of 9 0.59 A | verdict: PASS

@@ -1,0 +1,3 @@
+overlap donors: ['5144', '5242', '5294', '5403', '5408', '5565', '5577', '5841', '5978'] 9
+Pos excluding overlap: 16 v 20; candidates median t -0.01 vs -0.08, MWU p=0.0459; frac>0 0.49 v 0.47
+Neg excluding overlap: 13 v 17; candidates median t 0.05 vs -0.05, MWU p=0.0719; frac>0 0.53 v 0.48

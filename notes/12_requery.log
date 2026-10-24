@@ -1,0 +1,5 @@
+Re-querying 117 genes without a ChEMBL target...
+  now found: 0 | still failed after retries: 0 
+  total with ChEMBL target: 91 | with mechanism: 14 
+Mechanism records: 25 for 14 genes, 24 molecules
+PubMed: autism papers per gene, median 0 | 0 papers: 108 | 1-4: 67 | >=5: 33 | failed: 0 

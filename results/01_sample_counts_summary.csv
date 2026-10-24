@@ -1,0 +1,7 @@
+"series","platform","n_samples","n_autism","n_control","n_unknown"
+"GSE59288_part1","GPL11154",34,34,0,0
+"GSE59288_part2","GPL16809",39,0,0,39
+"GSE28521_part1","GPL6883",79,39,40,0
+"GSE28475_part1","GPL13388",20,0,0,20
+"GSE28475_part2","GPL6883",123,52,61,10
+"GSE102741_part1","GPL11154",52,13,39,0

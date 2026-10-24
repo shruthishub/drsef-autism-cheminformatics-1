@@ -1,0 +1,19 @@
+cells: 104559 | sample x celltype groups: 691 
+matrix: 65217 genes x 104559 cells, 238268142 entries
+ chunk 1 of 10 done; 1230279 gene-group sums
+ chunk 2 of 10 done; 1642698 gene-group sums
+ chunk 3 of 10 done; 1270414 gene-group sums
+ chunk 4 of 10 done; 1381085 gene-group sums
+ chunk 5 of 10 done; 1380978 gene-group sums
+ chunk 6 of 10 done; 1199969 gene-group sums
+ chunk 7 of 10 done; 1333514 gene-group sums
+ chunk 8 of 10 done; 1345522 gene-group sums
+ chunk 9 of 10 done; 1657534 gene-group sums
+ chunk 10 of 10 done; 884211 gene-group sums
+duplicated gene symbols: 6143 -> summed
+pseudobulk matrix: 59074 genes x 691 groups
+
+=========== PLAIN-ENGLISH SUMMARY ===========
+Samples: 41 ( 22 ASD / 19 control samples)
+Cell types: 17 
+CHECK: groups with very few cells (<20) are unreliable and are filtered before testing.

@@ -1,0 +1,21 @@
+drug,target,n_records,examples
+risperidone,MNK2,0,
+risperidone,MNK1,0,
+ziprasidone,MNK2,0,
+ziprasidone,MNK1,0,
+lurasidone,MNK2,0,
+lurasidone,MNK1,0,
+paliperidone,MNK2,0,
+paliperidone,MNK1,0,
+donepezil,MNK2,0,
+donepezil,MNK1,0,
+buspirone,MNK2,0,
+buspirone,MNK1,0,
+tinodasertib,MNK2,10,Inhibition >65.0 %; IC50 =86.0 nM; IC50 =86.0 nM
+tinodasertib,MNK1,8,IC50 =64.0 nM; IC50 =64.0 nM; IC50 =10.6 nM
+staurosporine,MNK2,13,Kd =22.0 nM; Kd =17.0 nM; Kd =17.0 nM
+staurosporine,MNK1,9,Kd =170.0 nM; Kd =170.0 nM; Activity <65.0 %
+DELAMANID,MNK2,0,
+DELAMANID,MNK1,0,
+ELTROMBOPAG,MNK2,0,
+ELTROMBOPAG,MNK1,0,

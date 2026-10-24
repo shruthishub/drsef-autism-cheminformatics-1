@@ -1,0 +1,11 @@
+pdb,ligand,chain,heavy_atoms,top_score,top_rmsd,best_rmsd,verdict,seed,exhaustiveness
+6JLR,BV9,A,21,-9.42,9.3,1.6,PARTIAL (a lower-ranked pose is < 2 A),42,32
+8P9B,X8K,A,31,-11.23,0.7,0.7,PASS,42,32
+5XY1,8H0,A,30,-9.54,7.86,1.6,PARTIAL (a lower-ranked pose is < 2 A),42,32
+4BKJ,STI,A,37,-12.9,0.8,0.8,PASS,42,32
+5XY1,8H0,A,30,-9.63,2.43,1.52,PARTIAL (a lower-ranked pose is < 2 A),1,64
+5XY1,8H0,A,30,-9.61,7.88,1.94,PARTIAL (a lower-ranked pose is < 2 A),2,64
+5XY1,8H0,A,30,-9.69,2.38,1.57,PARTIAL (a lower-ranked pose is < 2 A),3,64
+4KWP,EXX,A,21,-8.24,2.6,1.5,PARTIAL (a lower-ranked pose is < 2 A),42,32
+4HNI,16W,A,25,-9.17,0.85,0.85,PASS,42,32
+3OG7,032,A,33,-11.54,0.59,0.59,PASS,42,32

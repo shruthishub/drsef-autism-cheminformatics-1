@@ -1,0 +1,42 @@
+
+===== Pos fraction: 22 ASD v 23 CTL donors, 26743 genes tested; median nuclei per pseudobulk 359; global median t -0.14, sd 1.04
+candidate list vs other genes: n=200 median t 0.19 vs -0.14; MWU p=5.36e-05; frac t>0 0.57 vs 0.45
+candidates with t>0 and p<0.05: 8 (chance ~5.0): RHPN2, PKIA, ATP2B4, SSBP2, PBX1, PLXDC2, RAB8B, ZNF471
+druggable candidates present: 36; with t>0 & p<0.05: none
+  DDR1: t=+0.32 p=0.754 rank 8966/26743
+  MKNK2: t=-2.52 p=0.0156 rank 26444/26743
+  CSNK1E: t=-0.46 p=0.646 rank 16697/26743
+  NR2F1: t=+1.02 p=0.314 rank 3603/26743
+  PBX1: t=+3.07 p=0.00378 rank 19/26743
+  NFIA: t=-0.03 p=0.973 rank 12327/26743
+
+===== Neg fraction: 19 ASD v 19 CTL donors, 21085 genes tested; median nuclei per pseudobulk 114; global median t 0.09, sd 0.98
+candidate list vs other genes: n=198 median t 0.23 vs 0.09; MWU p=0.0253; frac t>0 0.61 vs 0.54
+candidates with t>0 and p<0.05: 5 (chance ~5.0): RPL12, OAF, TNRC6B, RHOBTB3, AKR1C3
+druggable candidates present: 35; with t>0 & p<0.05: AKR1C3
+  DDR1: t=-0.24 p=0.816 rank 13233/21085
+  MKNK2: t=-0.46 p=0.649 rank 15000/21085
+  CSNK1E: t=-0.02 p=0.982 rank 11493/21085
+  NR2F1: t=-0.38 p=0.709 rank 14377/21085
+  PBX1: t=-1.11 p=0.274 rank 18722/21085
+  NFIA: t=-0.74 p=0.462 rank 16863/21085
+
+ fraction                             gene_set  n_genes  mean_t(+ = up in ASD)  p_label_permutation
+     Pos                   GOCC_MYELIN_SHEATH       39                 -0.319             0.170610
+     Pos GOBP_OLIGODENDROCYTE_DIFFERENTIATION       89                 -0.422             0.077974
+     Pos     GOBP_OLIGODENDROCYTE_DEVELOPMENT       41                 -0.257             0.299234
+     Pos         GOBP_ENSHEATHMENT_OF_NEURONS      142                 -0.366             0.034322
+     Pos       GOBP_REGULATION_OF_MYELINATION       43                 -0.277             0.152616
+     Pos       GOBP_OXIDATIVE_PHOSPHORYLATION      107                  0.051             0.876041
+     Pos           GOBP_INFLAMMATORY_RESPONSE      762                 -0.232             0.132956
+     Pos              GOBP_SYNAPTIC_SIGNALING      740                 -0.187             0.220260
+     Pos                MARKERS_oligo_curated       11                 -0.491             0.380540
+     Neg                   GOCC_MYELIN_SHEATH       38                  0.081             0.811396
+     Neg GOBP_OLIGODENDROCYTE_DIFFERENTIATION       83                  0.037             0.833389
+     Neg     GOBP_OLIGODENDROCYTE_DEVELOPMENT       40                 -0.121             0.582139
+     Neg         GOBP_ENSHEATHMENT_OF_NEURONS      136                  0.003             0.981673
+     Neg       GOBP_REGULATION_OF_MYELINATION       41                 -0.214             0.361546
+     Neg       GOBP_OXIDATIVE_PHOSPHORYLATION      100                  0.398             0.065312
+     Neg           GOBP_INFLAMMATORY_RESPONSE      654                  0.006             0.967344
+     Neg              GOBP_SYNAPTIC_SIGNALING      676                 -0.018             0.909697
+     Neg                MARKERS_oligo_curated       11                 -0.332             0.659780

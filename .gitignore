@@ -1,0 +1,7 @@
+# large or regenerable data (re-download with scripts 01/01b/22a etc.)
+data_raw/
+data_clean/
+*.RData
+.DS_Store
+# docking runs in progress
+results/*_partial.csv
